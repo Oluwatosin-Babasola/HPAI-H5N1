@@ -1,0 +1,1801 @@
+parent,child,from_region,into_region,from_hhs,into_hhs,from_host,into_host,branch_length,interregion,interstate,interhost,same_region,same_host
+902,903,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,0.39171,FALSE,FALSE,FALSE,TRUE,TRUE
+903,904,Vietnam,Czech Republic,Vietnam,Czech Republic,WB,DB,1.23647,TRUE,TRUE,TRUE,FALSE,FALSE
+904,1,Czech Republic,Wales,Czech Republic,Wales,DB,DB,0.45325,TRUE,TRUE,FALSE,FALSE,TRUE
+904,905,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+905,2,Czech Republic,England,Czech Republic,England,DB,DB,0.44503,TRUE,TRUE,FALSE,FALSE,TRUE
+905,3,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,WB,0.37106,FALSE,FALSE,TRUE,TRUE,FALSE
+903,906,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,0.05843,FALSE,FALSE,FALSE,TRUE,TRUE
+906,907,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,0.77059,FALSE,FALSE,FALSE,TRUE,TRUE
+907,908,Vietnam,Vietnam,Vietnam,Vietnam,WB,DB,1.28453,FALSE,FALSE,TRUE,TRUE,FALSE
+908,4,Vietnam,Vietnam,Vietnam,Vietnam,DB,DB,0.09947,FALSE,FALSE,FALSE,TRUE,TRUE
+908,5,Vietnam,Vietnam,Vietnam,Vietnam,DB,WB,0.37618,FALSE,FALSE,TRUE,TRUE,FALSE
+907,909,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,0.28594,FALSE,FALSE,FALSE,TRUE,TRUE
+909,6,Vietnam,Alaska,Vietnam,Alaska,WB,WB,1.53915,TRUE,TRUE,FALSE,FALSE,TRUE
+909,910,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+910,7,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,0.97476,FALSE,FALSE,FALSE,TRUE,TRUE
+910,911,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,0.14061,FALSE,FALSE,FALSE,TRUE,TRUE
+911,8,Vietnam,Vietnam,Vietnam,Vietnam,WB,DB,2.13826,FALSE,FALSE,TRUE,TRUE,FALSE
+911,912,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+912,9,Vietnam,Vietnam,Vietnam,Vietnam,WB,DB,1.29716,FALSE,FALSE,TRUE,TRUE,FALSE
+912,913,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,0.12502,FALSE,FALSE,FALSE,TRUE,TRUE
+913,10,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,0.76666,FALSE,FALSE,FALSE,TRUE,TRUE
+913,914,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+914,11,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,0.88721,FALSE,FALSE,FALSE,TRUE,TRUE
+914,12,Vietnam,Vietnam,Vietnam,Vietnam,WB,WB,1.18858,FALSE,FALSE,FALSE,TRUE,TRUE
+906,915,Vietnam,Netherlands,Vietnam,Netherlands,WB,WB,0.16118,TRUE,TRUE,FALSE,FALSE,TRUE
+915,13,Netherlands,Nigeria,Netherlands,Nigeria,WB,WB,2.2345,TRUE,TRUE,FALSE,FALSE,TRUE
+915,916,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.36806,FALSE,FALSE,FALSE,TRUE,TRUE
+916,917,Netherlands,Bangladesh,Netherlands,Bangladesh,WB,WB,0.69159,TRUE,TRUE,FALSE,FALSE,TRUE
+917,14,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,0.56389,FALSE,FALSE,FALSE,TRUE,TRUE
+917,918,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,1.22271,FALSE,FALSE,FALSE,TRUE,TRUE
+918,919,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,0.54934,FALSE,FALSE,FALSE,TRUE,TRUE
+919,15,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,0.70964,FALSE,FALSE,FALSE,TRUE,TRUE
+919,16,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,0.63019,FALSE,FALSE,FALSE,TRUE,TRUE
+918,920,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,0.07842,FALSE,FALSE,FALSE,TRUE,TRUE
+920,17,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,2.69837,FALSE,FALSE,FALSE,TRUE,TRUE
+920,921,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,0.70303,FALSE,FALSE,FALSE,TRUE,TRUE
+921,18,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,DB,1.10625,FALSE,FALSE,TRUE,TRUE,FALSE
+921,922,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,0.2368,FALSE,FALSE,FALSE,TRUE,TRUE
+922,19,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,0.23526,FALSE,FALSE,FALSE,TRUE,TRUE
+922,20,Bangladesh,Bangladesh,Bangladesh,Bangladesh,WB,WB,0.33663,FALSE,FALSE,FALSE,TRUE,TRUE
+916,923,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+923,924,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.49963,FALSE,FALSE,FALSE,TRUE,TRUE
+924,925,Netherlands,Czech Republic,Netherlands,Czech Republic,WB,WB,0.56522,TRUE,TRUE,FALSE,FALSE,TRUE
+925,21,Czech Republic,Czech Republic,Czech Republic,Czech Republic,WB,WB,0.09748,FALSE,FALSE,FALSE,TRUE,TRUE
+925,22,Czech Republic,Czech Republic,Czech Republic,Czech Republic,WB,WB,0.17967,FALSE,FALSE,FALSE,TRUE,TRUE
+924,926,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+926,927,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+927,23,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.82982,FALSE,FALSE,FALSE,TRUE,TRUE
+927,928,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.19695,FALSE,FALSE,FALSE,TRUE,TRUE
+928,24,Netherlands,Sweden,Netherlands,Sweden,WB,WB,0.70685,TRUE,TRUE,FALSE,FALSE,TRUE
+928,929,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+929,930,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.19694,FALSE,FALSE,FALSE,TRUE,TRUE
+930,25,Netherlands,Unknown,Netherlands,Unknown,WB,WB,0.43045,TRUE,TRUE,FALSE,FALSE,TRUE
+930,26,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.38936,FALSE,FALSE,FALSE,TRUE,TRUE
+929,931,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+931,27,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.4274,FALSE,FALSE,FALSE,TRUE,TRUE
+931,932,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.24308,FALSE,FALSE,FALSE,TRUE,TRUE
+932,28,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.37883,FALSE,FALSE,FALSE,TRUE,TRUE
+932,933,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+933,29,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.17883,FALSE,FALSE,FALSE,TRUE,TRUE
+933,30,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.35143,FALSE,FALSE,FALSE,TRUE,TRUE
+926,934,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+934,935,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+935,31,Netherlands,Kurgan,Netherlands,Kurgan,WB,DB,0.58873,TRUE,TRUE,TRUE,FALSE,FALSE
+935,32,Netherlands,Sweden,Netherlands,Sweden,WB,WB,0.74215,TRUE,TRUE,FALSE,FALSE,TRUE
+934,936,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.20164,FALSE,FALSE,FALSE,TRUE,TRUE
+936,937,Netherlands,Czech Republic,Netherlands,Czech Republic,WB,WB,0.93605,TRUE,TRUE,FALSE,FALSE,TRUE
+937,33,Czech Republic,Czech Republic,Czech Republic,Czech Republic,WB,DB,0.67843,FALSE,FALSE,TRUE,TRUE,FALSE
+937,938,Czech Republic,Czech Republic,Czech Republic,Czech Republic,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+938,34,Czech Republic,Czech Republic,Czech Republic,Czech Republic,WB,WB,0.78528,FALSE,FALSE,FALSE,TRUE,TRUE
+938,939,Czech Republic,Czech Republic,Czech Republic,Czech Republic,WB,DB,0.28874,FALSE,FALSE,TRUE,TRUE,FALSE
+939,940,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,1.36228,FALSE,FALSE,FALSE,TRUE,TRUE
+940,35,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+940,941,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.00546,FALSE,FALSE,FALSE,TRUE,TRUE
+941,36,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+941,37,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+939,942,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.60284,FALSE,FALSE,FALSE,TRUE,TRUE
+942,38,Czech Republic,Netherlands,Czech Republic,Netherlands,DB,WB,0.82775,TRUE,TRUE,TRUE,FALSE,FALSE
+942,943,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.38897,FALSE,FALSE,FALSE,TRUE,TRUE
+943,944,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.08351,FALSE,FALSE,FALSE,TRUE,TRUE
+944,945,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.62756,FALSE,FALSE,FALSE,TRUE,TRUE
+945,39,Czech Republic,England,Czech Republic,England,DB,DB,0.61023,TRUE,TRUE,FALSE,FALSE,TRUE
+945,946,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+946,40,Czech Republic,Germany-Mv,Czech Republic,Germany-Mv,DB,WB,0.20039,TRUE,TRUE,TRUE,FALSE,FALSE
+946,947,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.20809,FALSE,FALSE,FALSE,TRUE,TRUE
+947,41,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.34203,FALSE,FALSE,FALSE,TRUE,TRUE
+947,42,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.18903,FALSE,FALSE,FALSE,TRUE,TRUE
+944,948,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.13133,FALSE,FALSE,FALSE,TRUE,TRUE
+948,949,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+949,43,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.28679,FALSE,FALSE,FALSE,TRUE,TRUE
+949,44,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,WB,0.21575,FALSE,FALSE,TRUE,TRUE,FALSE
+948,950,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.26766,FALSE,FALSE,FALSE,TRUE,TRUE
+950,45,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+950,46,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.01639,FALSE,FALSE,FALSE,TRUE,TRUE
+943,951,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.21218,FALSE,FALSE,FALSE,TRUE,TRUE
+951,952,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.39205,FALSE,FALSE,FALSE,TRUE,TRUE
+952,953,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+953,47,Czech Republic,Sweden,Czech Republic,Sweden,DB,WB,0.969,TRUE,TRUE,TRUE,FALSE,FALSE
+953,954,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.10521,FALSE,FALSE,FALSE,TRUE,TRUE
+954,48,Czech Republic,Germany-He,Czech Republic,Germany-He,DB,WB,0.83365,TRUE,TRUE,TRUE,FALSE,FALSE
+954,955,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.40532,FALSE,FALSE,FALSE,TRUE,TRUE
+955,49,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.059,FALSE,FALSE,FALSE,TRUE,TRUE
+955,50,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.15462,FALSE,FALSE,FALSE,TRUE,TRUE
+952,956,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.15599,FALSE,FALSE,FALSE,TRUE,TRUE
+956,51,Czech Republic,Germany-By,Czech Republic,Germany-By,DB,WB,0.45452,TRUE,TRUE,TRUE,FALSE,FALSE
+956,957,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+957,958,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+958,52,Czech Republic,Germany-By,Czech Republic,Germany-By,DB,DB,0.79658,TRUE,TRUE,FALSE,FALSE,TRUE
+958,53,Czech Republic,Serbia,Czech Republic,Serbia,DB,DB,0.27146,TRUE,TRUE,FALSE,FALSE,TRUE
+957,959,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.09409,FALSE,FALSE,FALSE,TRUE,TRUE
+959,54,Czech Republic,Netherlands,Czech Republic,Netherlands,DB,WB,0.42327,TRUE,TRUE,TRUE,FALSE,FALSE
+959,960,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+960,55,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.36316,FALSE,FALSE,FALSE,TRUE,TRUE
+960,961,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+961,56,Czech Republic,Czech Republic,Czech Republic,Czech Republic,DB,DB,0.47791,FALSE,FALSE,FALSE,TRUE,TRUE
+961,57,Czech Republic,Denmark,Czech Republic,Denmark,DB,WB,0.67234,TRUE,TRUE,TRUE,FALSE,FALSE
+951,962,Czech Republic,England,Czech Republic,England,DB,WB,0.78444,TRUE,TRUE,TRUE,FALSE,FALSE
+962,58,England,England,England,England,WB,DB,0.4725,FALSE,FALSE,TRUE,TRUE,FALSE
+962,963,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+963,964,England,England,England,England,WB,WB,0.12916,FALSE,FALSE,FALSE,TRUE,TRUE
+964,59,England,England,England,England,WB,DB,0.28033,FALSE,FALSE,TRUE,TRUE,FALSE
+964,965,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+965,966,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+966,60,England,Scotland,England,Scotland,WB,WB,0.53512,TRUE,TRUE,FALSE,FALSE,TRUE
+966,967,England,England,England,England,WB,WB,0.12017,FALSE,FALSE,FALSE,TRUE,TRUE
+967,61,England,England,England,England,WB,WB,0.22865,FALSE,FALSE,FALSE,TRUE,TRUE
+967,62,England,Scotland,England,Scotland,WB,WB,0.15741,TRUE,TRUE,FALSE,FALSE,TRUE
+965,968,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+968,63,England,England,England,England,WB,WB,0.3543,FALSE,FALSE,FALSE,TRUE,TRUE
+968,969,England,Scotland,England,Scotland,WB,WB,0.15673,TRUE,TRUE,FALSE,FALSE,TRUE
+969,64,Scotland,Scotland,Scotland,Scotland,WB,WM,0.23045,FALSE,FALSE,TRUE,TRUE,FALSE
+969,970,Scotland,Scotland,Scotland,Scotland,WB,WB,0.1373,FALSE,FALSE,FALSE,TRUE,TRUE
+970,65,Scotland,England,Scotland,England,WB,WB,0.09589,TRUE,TRUE,FALSE,FALSE,TRUE
+970,66,Scotland,Scotland,Scotland,Scotland,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+963,971,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+971,972,England,England,England,England,WB,WB,0.00153,FALSE,FALSE,FALSE,TRUE,TRUE
+972,973,England,England,England,England,WB,WB,0.13125,FALSE,FALSE,FALSE,TRUE,TRUE
+973,67,England,England,England,England,WB,WB,0.46575,FALSE,FALSE,FALSE,TRUE,TRUE
+973,68,England,England,England,England,WB,DB,0.29589,FALSE,FALSE,TRUE,TRUE,FALSE
+972,974,England,England,England,England,WB,WB,0.06094,FALSE,FALSE,FALSE,TRUE,TRUE
+974,69,England,Netherlands,England,Netherlands,WB,WB,0.37715,TRUE,TRUE,FALSE,FALSE,TRUE
+974,70,England,Belgium,England,Belgium,WB,DB,0.47852,TRUE,TRUE,TRUE,FALSE,FALSE
+971,975,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+975,976,England,England,England,England,WB,WB,0.15989,FALSE,FALSE,FALSE,TRUE,TRUE
+976,71,England,England,England,England,WB,DB,0.17026,FALSE,FALSE,TRUE,TRUE,FALSE
+976,977,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+977,72,England,Netherlands,England,Netherlands,WB,WB,0.43317,TRUE,TRUE,FALSE,FALSE,TRUE
+977,73,England,Netherlands,England,Netherlands,WB,WB,0.30166,TRUE,TRUE,FALSE,FALSE,TRUE
+975,978,England,England,England,England,WB,WB,0.10841,FALSE,FALSE,FALSE,TRUE,TRUE
+978,979,England,England,England,England,WB,DB,0.37362,FALSE,FALSE,TRUE,TRUE,FALSE
+979,74,England,England,England,England,DB,DB,0.16581,FALSE,FALSE,FALSE,TRUE,TRUE
+979,75,England,England,England,England,DB,DB,0.05897,FALSE,FALSE,FALSE,TRUE,TRUE
+978,980,England,England,England,England,WB,WB,0.20654,FALSE,FALSE,FALSE,TRUE,TRUE
+980,76,England,England,England,England,WB,WB,0.16851,FALSE,FALSE,FALSE,TRUE,TRUE
+980,981,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+981,77,England,England,England,England,WB,WB,0.18221,FALSE,FALSE,FALSE,TRUE,TRUE
+981,982,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+982,78,England,England,England,England,WB,WB,0.29728,FALSE,FALSE,FALSE,TRUE,TRUE
+982,79,England,England,England,England,WB,WB,0.18769,FALSE,FALSE,FALSE,TRUE,TRUE
+936,983,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+983,984,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.27434,FALSE,FALSE,FALSE,TRUE,TRUE
+984,80,Netherlands,Denmark,Netherlands,Denmark,WB,WB,0.14014,TRUE,TRUE,FALSE,FALSE,TRUE
+984,81,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.20316,FALSE,FALSE,FALSE,TRUE,TRUE
+983,985,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.12072,FALSE,FALSE,FALSE,TRUE,TRUE
+985,82,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.56226,FALSE,FALSE,FALSE,TRUE,TRUE
+985,986,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+986,987,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+987,83,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.45541,FALSE,FALSE,FALSE,TRUE,TRUE
+987,988,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.34157,FALSE,FALSE,FALSE,TRUE,TRUE
+988,84,Netherlands,England,Netherlands,England,WB,DB,1.02069,TRUE,TRUE,TRUE,FALSE,FALSE
+988,989,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.40981,FALSE,FALSE,FALSE,TRUE,TRUE
+989,990,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.13281,FALSE,FALSE,FALSE,TRUE,TRUE
+990,85,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.35204,FALSE,FALSE,FALSE,TRUE,TRUE
+990,991,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.06493,FALSE,FALSE,FALSE,TRUE,TRUE
+991,86,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.0241,FALSE,FALSE,FALSE,TRUE,TRUE
+991,992,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+992,87,Netherlands,England,Netherlands,England,WB,DB,0.27341,TRUE,TRUE,TRUE,FALSE,FALSE
+992,993,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+993,88,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.36656,FALSE,FALSE,FALSE,TRUE,TRUE
+993,89,Netherlands,England,Netherlands,England,WB,DB,0.31451,TRUE,TRUE,TRUE,FALSE,FALSE
+989,994,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+994,90,Netherlands,Belgium,Netherlands,Belgium,WB,DB,0.67663,TRUE,TRUE,TRUE,FALSE,FALSE
+994,995,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.13213,FALSE,FALSE,FALSE,TRUE,TRUE
+995,91,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.7445,FALSE,FALSE,FALSE,TRUE,TRUE
+995,996,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+996,92,Netherlands,England,Netherlands,England,WB,DB,0.36367,TRUE,TRUE,TRUE,FALSE,FALSE
+996,997,Netherlands,Sweden,Netherlands,Sweden,WB,WB,1.13679,TRUE,TRUE,FALSE,FALSE,TRUE
+997,93,Sweden,Netherlands,Sweden,Netherlands,WB,WB,0.28442,TRUE,TRUE,FALSE,FALSE,TRUE
+997,998,Sweden,Sweden,Sweden,Sweden,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+998,94,Sweden,Sweden,Sweden,Sweden,WB,WB,0.44059,FALSE,FALSE,FALSE,TRUE,TRUE
+998,999,Sweden,Sweden,Sweden,Sweden,WB,WB,0.22713,FALSE,FALSE,FALSE,TRUE,TRUE
+999,95,Sweden,Poland,Sweden,Poland,WB,WB,0.27084,TRUE,TRUE,FALSE,FALSE,TRUE
+999,1000,Sweden,Sweden,Sweden,Sweden,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1000,96,Sweden,Sweden,Sweden,Sweden,WB,WB,0.1751,FALSE,FALSE,FALSE,TRUE,TRUE
+1000,97,Sweden,Czech Republic,Sweden,Czech Republic,WB,DB,0.30909,TRUE,TRUE,TRUE,FALSE,FALSE
+986,1001,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1001,1002,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.2316,FALSE,FALSE,FALSE,TRUE,TRUE
+1002,1003,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1003,98,Netherlands,Belgium,Netherlands,Belgium,WB,DB,0.97723,TRUE,TRUE,TRUE,FALSE,FALSE
+1003,99,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.44573,FALSE,FALSE,FALSE,TRUE,TRUE
+1002,1004,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1004,1005,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1005,100,Netherlands,Sweden,Netherlands,Sweden,WB,WB,0.65121,TRUE,TRUE,FALSE,FALSE,TRUE
+1005,1006,Netherlands,Sweden,Netherlands,Sweden,WB,WB,0.15422,TRUE,TRUE,FALSE,FALSE,TRUE
+1006,101,Sweden,Sweden,Sweden,Sweden,WB,WB,0.46685,FALSE,FALSE,FALSE,TRUE,TRUE
+1006,102,Sweden,Sweden,Sweden,Sweden,WB,WB,0.64219,FALSE,FALSE,FALSE,TRUE,TRUE
+1004,1007,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1007,1008,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.53608,FALSE,FALSE,FALSE,TRUE,TRUE
+1008,103,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.13978,FALSE,FALSE,FALSE,TRUE,TRUE
+1008,1009,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.08392,FALSE,FALSE,FALSE,TRUE,TRUE
+1009,104,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.12162,FALSE,FALSE,FALSE,TRUE,TRUE
+1009,105,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.05312,FALSE,FALSE,FALSE,TRUE,TRUE
+1007,1010,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.10431,FALSE,FALSE,FALSE,TRUE,TRUE
+1010,1011,Netherlands,England,Netherlands,England,WB,DB,0.75192,TRUE,TRUE,TRUE,FALSE,FALSE
+1011,106,England,England,England,England,DB,DB,0.16757,FALSE,FALSE,FALSE,TRUE,TRUE
+1011,107,England,England,England,England,DB,DB,0.15387,FALSE,FALSE,FALSE,TRUE,TRUE
+1010,1012,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.48762,FALSE,FALSE,FALSE,TRUE,TRUE
+1012,108,Netherlands,Czech Republic,Netherlands,Czech Republic,WB,DB,0.57708,TRUE,TRUE,TRUE,FALSE,FALSE
+1012,1013,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.27199,FALSE,FALSE,FALSE,TRUE,TRUE
+1013,109,Netherlands,Sweden,Netherlands,Sweden,WB,WB,0.60098,TRUE,TRUE,FALSE,FALSE,TRUE
+1013,1014,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1014,110,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.36811,FALSE,FALSE,FALSE,TRUE,TRUE
+1014,1015,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.14178,FALSE,FALSE,FALSE,TRUE,TRUE
+1015,111,Netherlands,Czech Republic,Netherlands,Czech Republic,WB,DB,0.2318,TRUE,TRUE,TRUE,FALSE,FALSE
+1015,112,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.22084,FALSE,FALSE,FALSE,TRUE,TRUE
+1001,1016,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.11427,FALSE,FALSE,FALSE,TRUE,TRUE
+1016,1017,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.0967,FALSE,FALSE,FALSE,TRUE,TRUE
+1017,113,Netherlands,England,Netherlands,England,WB,DB,1.2554,TRUE,TRUE,TRUE,FALSE,FALSE
+1017,1018,Netherlands,England,Netherlands,England,WB,WB,0.67458,TRUE,TRUE,FALSE,FALSE,TRUE
+1018,114,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1018,115,England,Netherlands,England,Netherlands,WB,WB,0.05479,TRUE,TRUE,FALSE,FALSE,TRUE
+1016,1019,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1019,1020,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.49451,FALSE,FALSE,FALSE,TRUE,TRUE
+1020,116,Netherlands,England,Netherlands,England,WB,WB,0.76445,TRUE,TRUE,FALSE,FALSE,TRUE
+1020,1021,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.26929,FALSE,FALSE,FALSE,TRUE,TRUE
+1021,117,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.25406,FALSE,FALSE,FALSE,TRUE,TRUE
+1021,1022,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1022,118,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1022,1023,Netherlands,England,Netherlands,England,WB,DB,0.09481,TRUE,TRUE,TRUE,FALSE,FALSE
+1023,119,England,England,England,England,DB,DB,0.37021,FALSE,FALSE,FALSE,TRUE,TRUE
+1023,1024,England,England,England,England,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1024,120,England,Scotland,England,Scotland,DB,DB,0.38939,TRUE,TRUE,FALSE,FALSE,TRUE
+1024,121,England,England,England,England,DB,DB,0.24418,FALSE,FALSE,FALSE,TRUE,TRUE
+1019,1025,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.48356,FALSE,FALSE,FALSE,TRUE,TRUE
+1025,122,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.4932,FALSE,FALSE,FALSE,TRUE,TRUE
+1025,1026,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1026,1027,Netherlands,England,Netherlands,England,WB,WB,0.19341,TRUE,TRUE,FALSE,FALSE,TRUE
+1027,123,England,England,England,England,WB,WB,0.77103,FALSE,FALSE,FALSE,TRUE,TRUE
+1027,124,England,England,England,England,WB,DB,0.35185,FALSE,FALSE,TRUE,TRUE,FALSE
+1026,1028,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.4711,FALSE,FALSE,FALSE,TRUE,TRUE
+1028,1029,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.28485,FALSE,FALSE,FALSE,TRUE,TRUE
+1029,1030,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.131,FALSE,FALSE,FALSE,TRUE,TRUE
+1030,125,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.22817,FALSE,FALSE,FALSE,TRUE,TRUE
+1030,126,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.18434,FALSE,FALSE,FALSE,TRUE,TRUE
+1029,1031,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1031,127,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.24137,FALSE,FALSE,FALSE,TRUE,TRUE
+1031,1032,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1032,128,Netherlands,Denmark,Netherlands,Denmark,WB,WB,0.43589,TRUE,TRUE,FALSE,FALSE,TRUE
+1032,1033,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.10442,FALSE,FALSE,FALSE,TRUE,TRUE
+1033,129,Netherlands,Netherands,Netherlands,Netherands,WB,WB,0.41914,TRUE,TRUE,FALSE,FALSE,TRUE
+1033,1034,Netherlands,England,Netherlands,England,WB,WB,0.22781,TRUE,TRUE,FALSE,FALSE,TRUE
+1034,1035,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1035,130,England,Wales,England,Wales,WB,WB,0.35297,TRUE,TRUE,FALSE,FALSE,TRUE
+1035,131,England,England,England,England,WB,DB,0.45708,FALSE,FALSE,TRUE,TRUE,FALSE
+1034,1036,England,England,England,England,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1036,132,England,England,England,England,WB,WB,0.12284,FALSE,FALSE,FALSE,TRUE,TRUE
+1036,1037,England,England,England,England,WB,WB,1.40176,FALSE,FALSE,FALSE,TRUE,TRUE
+1037,133,England,England,England,England,WB,WB,0.52381,FALSE,FALSE,FALSE,TRUE,TRUE
+1037,1038,England,England,England,England,WB,WB,0.43557,FALSE,FALSE,FALSE,TRUE,TRUE
+1038,134,England,England,England,England,WB,WB,0.11838,FALSE,FALSE,FALSE,TRUE,TRUE
+1038,135,England,Wales,England,Wales,WB,DB,0.34578,TRUE,TRUE,TRUE,FALSE,FALSE
+1028,1039,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.20444,FALSE,FALSE,FALSE,TRUE,TRUE
+1039,136,Netherlands,Denmark,Netherlands,Denmark,WB,WB,0.61219,TRUE,TRUE,FALSE,FALSE,TRUE
+1039,1040,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1040,1041,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.08441,FALSE,FALSE,FALSE,TRUE,TRUE
+1041,1042,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1042,137,Netherlands,Czech Republic,Netherlands,Czech Republic,WB,WB,0.3771,TRUE,TRUE,FALSE,FALSE,TRUE
+1042,1043,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.08996,FALSE,FALSE,FALSE,TRUE,TRUE
+1043,138,Netherlands,Denmark,Netherlands,Denmark,WB,WB,0.50084,TRUE,TRUE,FALSE,FALSE,TRUE
+1043,139,Netherlands,Zuerich,Netherlands,Zuerich,WB,WB,0.13098,TRUE,TRUE,FALSE,FALSE,TRUE
+1041,1044,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.15188,FALSE,FALSE,FALSE,TRUE,TRUE
+1044,140,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.33754,FALSE,FALSE,FALSE,TRUE,TRUE
+1044,1045,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1045,141,Netherlands,Luxembourg,Netherlands,Luxembourg,WB,WB,0.30466,TRUE,TRUE,FALSE,FALSE,TRUE
+1045,1046,Netherlands,Sweden,Netherlands,Sweden,WB,WB,0.29644,TRUE,TRUE,FALSE,FALSE,TRUE
+1046,142,Sweden,Sweden,Sweden,Sweden,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1046,143,Sweden,Sweden,Sweden,Sweden,WB,WB,0.11233,FALSE,FALSE,FALSE,TRUE,TRUE
+1040,1047,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1047,1048,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.07765,FALSE,FALSE,FALSE,TRUE,TRUE
+1048,144,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.63864,FALSE,FALSE,FALSE,TRUE,TRUE
+1048,145,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.51262,FALSE,FALSE,FALSE,TRUE,TRUE
+1047,1049,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.21599,FALSE,FALSE,FALSE,TRUE,TRUE
+1049,146,Netherlands,Northern Ireland,Netherlands,Northern Ireland,WB,WM,0.53592,TRUE,TRUE,TRUE,FALSE,FALSE
+1049,1050,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1050,147,Netherlands,England,Netherlands,England,WB,WB,0.40167,TRUE,TRUE,FALSE,FALSE,TRUE
+1050,1051,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.11139,FALSE,FALSE,FALSE,TRUE,TRUE
+1051,148,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.36152,FALSE,FALSE,FALSE,TRUE,TRUE
+1051,1052,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1052,149,Netherlands,Netherlands,Netherlands,Netherlands,WB,WB,0.39166,FALSE,FALSE,FALSE,TRUE,TRUE
+1052,1053,Netherlands,Sweden,Netherlands,Sweden,WB,WB,0.16679,TRUE,TRUE,FALSE,FALSE,TRUE
+1053,150,Sweden,Sweden,Sweden,Sweden,WB,WB,0.17556,FALSE,FALSE,FALSE,TRUE,TRUE
+1053,1054,Sweden,Sweden,Sweden,Sweden,WB,WB,0.01842,FALSE,FALSE,FALSE,TRUE,TRUE
+1054,151,Sweden,Sweden,Sweden,Sweden,WB,WB,0.127,FALSE,FALSE,FALSE,TRUE,TRUE
+1054,152,Sweden,Sweden,Sweden,Sweden,WB,WB,0.12974,FALSE,FALSE,FALSE,TRUE,TRUE
+923,1055,Netherlands,Alaska,Netherlands,Alaska,WB,WB,1.37984,TRUE,TRUE,FALSE,FALSE,TRUE
+1055,1056,Alaska,Magadan,Alaska,Magadan,WB,DB,0.68112,TRUE,TRUE,TRUE,FALSE,FALSE
+1056,153,Magadan,Magadan,Magadan,Magadan,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1056,1057,Magadan,Hawaii,Magadan,Hawaii,DB,WB,1.07415,TRUE,TRUE,TRUE,FALSE,FALSE
+1057,154,Hawaii,North Carolina,Hawaii,North Carolina,WB,WB,1.06854,TRUE,TRUE,FALSE,FALSE,TRUE
+1057,155,Hawaii,Hawaii,Hawaii,Hawaii,WB,WB,1.01116,FALSE,FALSE,FALSE,TRUE,TRUE
+1055,1058,Alaska,Alaska,Alaska,Alaska,WB,WB,0.0851,FALSE,FALSE,FALSE,TRUE,TRUE
+1058,1059,Alaska,California,Alaska,California,WB,WB,0.52932,TRUE,TRUE,FALSE,FALSE,TRUE
+1059,156,California,California,California,California,WB,WB,0.25847,FALSE,FALSE,FALSE,TRUE,TRUE
+1059,157,California,California,California,California,WB,WB,0.3571,FALSE,FALSE,FALSE,TRUE,TRUE
+1058,1060,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1060,158,Alaska,Alaska,Alaska,Alaska,WB,WB,0.56314,FALSE,FALSE,FALSE,TRUE,TRUE
+1060,1061,Alaska,Alaska,Alaska,Alaska,WB,WB,0.07855,FALSE,FALSE,FALSE,TRUE,TRUE
+1061,159,Alaska,Alaska,Alaska,Alaska,WB,WB,0.09554,FALSE,FALSE,FALSE,TRUE,TRUE
+1061,1062,Alaska,Alaska,Alaska,Alaska,WB,WB,0.44336,FALSE,FALSE,FALSE,TRUE,TRUE
+1062,1063,Alaska,Alaska,Alaska,Alaska,WB,WB,0.70284,FALSE,FALSE,FALSE,TRUE,TRUE
+1063,160,Alaska,Alaska,Alaska,Alaska,WB,WB,0.41236,FALSE,FALSE,FALSE,TRUE,TRUE
+1063,161,Alaska,Bc,Alaska,Bc,WB,WB,0.53565,TRUE,TRUE,FALSE,FALSE,TRUE
+1062,1064,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1064,1065,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1065,162,Alaska,California,Alaska,California,WB,WB,0.51246,TRUE,TRUE,FALSE,FALSE,TRUE
+1065,1066,Alaska,Usa,Alaska,Usa,WB,WB,1.21245,TRUE,TRUE,FALSE,FALSE,TRUE
+1066,163,Usa,Alabama,Usa,Alabama,WB,WB,1.24522,TRUE,TRUE,FALSE,FALSE,TRUE
+1066,1067,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1067,1068,Usa,Usa,Usa,Usa,WB,WB,0.20684,FALSE,FALSE,FALSE,TRUE,TRUE
+1068,164,Usa,Usa,Usa,Usa,WB,WB,0.87673,FALSE,FALSE,FALSE,TRUE,TRUE
+1068,165,Usa,Michigan,Usa,Michigan,WB,WB,0.92057,TRUE,TRUE,FALSE,FALSE,TRUE
+1067,1069,Usa,Usa,Usa,Usa,WB,DB,0.08357,FALSE,FALSE,TRUE,TRUE,FALSE
+1069,166,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1069,167,Usa,Usa,Usa,Usa,DB,WB,1,FALSE,FALSE,TRUE,TRUE,FALSE
+1064,1070,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1070,168,Alaska,Alaska,Alaska,Alaska,WB,WB,0.04397,FALSE,FALSE,FALSE,TRUE,TRUE
+1070,1071,Alaska,Usa,Alaska,Usa,WB,WB,1.16565,TRUE,TRUE,FALSE,FALSE,TRUE
+1071,1072,Usa,Usa,Usa,Usa,WB,WB,0.28486,FALSE,FALSE,FALSE,TRUE,TRUE
+1072,169,Usa,Louisiana,Usa,Louisiana,WB,DB,0.78267,TRUE,TRUE,TRUE,FALSE,FALSE
+1072,170,Usa,Bc,Usa,Bc,WB,WB,0.66791,TRUE,TRUE,FALSE,FALSE,TRUE
+1071,1073,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1073,1074,Usa,Usa,Usa,Usa,WB,WB,0.53258,FALSE,FALSE,FALSE,TRUE,TRUE
+1074,1075,Usa,Usa,Usa,Usa,WB,WB,0.4723,FALSE,FALSE,FALSE,TRUE,TRUE
+1075,1076,Usa,Usa,Usa,Usa,WB,WB,0.16178,FALSE,FALSE,FALSE,TRUE,TRUE
+1076,171,Usa,Indiana,Usa,Indiana,WB,DB,0.28974,TRUE,TRUE,TRUE,FALSE,FALSE
+1076,172,Usa,New Jersey,Usa,New Jersey,WB,WB,0.3144,TRUE,TRUE,FALSE,FALSE,TRUE
+1075,1077,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1077,1078,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1078,173,Usa,Usa,Usa,Usa,WB,WB,0.1255,FALSE,FALSE,FALSE,TRUE,TRUE
+1078,174,Usa,Usa,Usa,Usa,WB,WB,0.1255,FALSE,FALSE,FALSE,TRUE,TRUE
+1077,1079,Usa,New York,Usa,New York,WB,WB,0.02029,TRUE,TRUE,FALSE,FALSE,TRUE
+1079,175,New York,New York,New York,New York,WB,WB,0.34904,FALSE,FALSE,FALSE,TRUE,TRUE
+1079,1080,New York,New York,New York,New York,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1080,1081,New York,New York,New York,New York,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1081,176,New York,Usa,New York,Usa,WB,WB,0.10521,TRUE,TRUE,FALSE,FALSE,TRUE
+1081,1082,New York,New York,New York,New York,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1082,1083,New York,New York,New York,New York,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1083,177,New York,New York,New York,New York,WB,WB,0.3326,FALSE,FALSE,FALSE,TRUE,TRUE
+1083,178,New York,New York,New York,New York,WB,WB,0.42575,FALSE,FALSE,FALSE,TRUE,TRUE
+1082,1084,New York,New York,New York,New York,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1084,179,New York,Pennsylvania,New York,Pennsylvania,WB,WB,0.27781,TRUE,TRUE,FALSE,FALSE,TRUE
+1084,180,New York,Pennsylvania,New York,Pennsylvania,WB,DB,0.27781,TRUE,TRUE,TRUE,FALSE,FALSE
+1080,1085,New York,New York,New York,New York,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1085,1086,New York,New York,New York,New York,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1086,1087,New York,New York,New York,New York,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1087,181,New York,Usa,New York,Usa,WB,WB,0.10521,TRUE,TRUE,FALSE,FALSE,TRUE
+1087,182,New York,New York,New York,New York,WB,WB,0.22027,FALSE,FALSE,FALSE,TRUE,TRUE
+1086,1088,New York,New York,New York,New York,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1088,183,New York,New York,New York,New York,WB,WB,0.16548,FALSE,FALSE,FALSE,TRUE,TRUE
+1088,184,New York,New York,New York,New York,WB,WB,0.25863,FALSE,FALSE,FALSE,TRUE,TRUE
+1085,1089,New York,Usa,New York,Usa,WB,WB,0.0992,TRUE,TRUE,FALSE,FALSE,TRUE
+1089,185,Usa,Usa,Usa,Usa,WB,WB,0.00601,FALSE,FALSE,FALSE,TRUE,TRUE
+1089,1090,Usa,Usa,Usa,Usa,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1090,186,Usa,New York,Usa,New York,WB,WB,0.05058,TRUE,TRUE,FALSE,FALSE,TRUE
+1090,1091,Usa,Usa,Usa,Usa,WB,DB,0.002,FALSE,FALSE,TRUE,TRUE,FALSE
+1091,187,Usa,New York,Usa,New York,DB,DB,0.09241,TRUE,TRUE,FALSE,FALSE,TRUE
+1091,1092,Usa,Usa,Usa,Usa,DB,DB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1092,188,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1092,189,Usa,Pennsylvania,Usa,Pennsylvania,DB,WB,0.09315,TRUE,TRUE,TRUE,FALSE,FALSE
+1074,1093,Usa,Usa,Usa,Usa,WB,WB,0.20517,FALSE,FALSE,FALSE,TRUE,TRUE
+1093,190,Usa,Massachusetts,Usa,Massachusetts,WB,WB,0.56797,TRUE,TRUE,FALSE,FALSE,TRUE
+1093,1094,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1094,1095,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1095,191,Usa,New York,Usa,New York,WB,WB,0.6803,TRUE,TRUE,FALSE,FALSE,TRUE
+1095,192,Usa,Usa,Usa,Usa,WB,WB,0.39263,FALSE,FALSE,FALSE,TRUE,TRUE
+1094,1096,Usa,Usa,Usa,Usa,WB,WB,0.11217,FALSE,FALSE,FALSE,TRUE,TRUE
+1096,1097,Usa,Usa,Usa,Usa,WB,WB,0.27245,FALSE,FALSE,FALSE,TRUE,TRUE
+1097,193,Usa,Usa,Usa,Usa,WB,WB,0.00802,FALSE,FALSE,FALSE,TRUE,TRUE
+1097,1098,Usa,Usa,Usa,Usa,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1098,194,Usa,Usa,Usa,Usa,WB,WB,0.00601,FALSE,FALSE,FALSE,TRUE,TRUE
+1098,1099,Usa,Usa,Usa,Usa,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1099,195,Usa,Usa,Usa,Usa,WB,WB,0.00401,FALSE,FALSE,FALSE,TRUE,TRUE
+1099,1100,Usa,Usa,Usa,Usa,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1100,196,Usa,Usa,Usa,Usa,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1100,1101,Usa,Usa,Usa,Usa,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1101,197,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1101,198,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1096,1102,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1102,1103,Usa,Usa,Usa,Usa,WB,WB,0.01915,FALSE,FALSE,FALSE,TRUE,TRUE
+1103,1104,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1104,199,Usa,Usa,Usa,Usa,WB,WB,0.26131,FALSE,FALSE,FALSE,TRUE,TRUE
+1104,200,Usa,Usa,Usa,Usa,WB,WB,0.26131,FALSE,FALSE,FALSE,TRUE,TRUE
+1103,1105,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1105,201,Usa,Rhode Island,Usa,Rhode Island,WB,WB,0.41748,TRUE,TRUE,FALSE,FALSE,TRUE
+1105,1106,Usa,Usa,Usa,Usa,WB,WB,0.10586,FALSE,FALSE,FALSE,TRUE,TRUE
+1106,202,Usa,Massachusetts,Usa,Massachusetts,WB,WB,0.23764,TRUE,TRUE,FALSE,FALSE,TRUE
+1106,1107,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1107,1108,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1108,203,Usa,Connecticut,Usa,Connecticut,WB,DB,0.15272,TRUE,TRUE,TRUE,FALSE,FALSE
+1108,204,Usa,Massachusetts,Usa,Massachusetts,WB,WB,0.19107,TRUE,TRUE,FALSE,FALSE,TRUE
+1107,1109,Usa,Usa,Usa,Usa,WB,WB,0.07065,FALSE,FALSE,FALSE,TRUE,TRUE
+1109,205,Usa,New Jersey,Usa,New Jersey,WB,WB,0.11768,TRUE,TRUE,FALSE,FALSE,TRUE
+1109,1110,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1110,206,Usa,Usa,Usa,Usa,WB,WB,0.0848,FALSE,FALSE,FALSE,TRUE,TRUE
+1110,1111,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1111,207,Usa,Maryland,Usa,Maryland,WB,DB,0.08207,TRUE,TRUE,TRUE,FALSE,FALSE
+1111,208,Usa,New York,Usa,New York,WB,WB,0.15604,TRUE,TRUE,FALSE,FALSE,TRUE
+1102,1112,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1112,1113,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1113,209,Usa,Usa,Usa,Usa,WB,WB,0.28046,FALSE,FALSE,FALSE,TRUE,TRUE
+1113,1114,Usa,Usa,Usa,Usa,WB,WB,0.27846,FALSE,FALSE,FALSE,TRUE,TRUE
+1114,210,Usa,Massachusetts,Usa,Massachusetts,WB,WM,0.11981,TRUE,TRUE,TRUE,FALSE,FALSE
+1114,1115,Usa,Usa,Usa,Usa,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1115,211,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1115,212,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1112,1116,Usa,Usa,Usa,Usa,WB,WB,0.06475,FALSE,FALSE,FALSE,TRUE,TRUE
+1116,1117,Usa,Usa,Usa,Usa,WB,WB,0.10039,FALSE,FALSE,FALSE,TRUE,TRUE
+1117,213,Usa,Usa,Usa,Usa,WB,WB,0.11533,FALSE,FALSE,FALSE,TRUE,TRUE
+1117,214,Usa,Usa,Usa,Usa,WB,WB,0.11533,FALSE,FALSE,FALSE,TRUE,TRUE
+1116,1118,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1118,1119,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1119,215,Usa,Usa,Usa,Usa,WB,WB,0.21572,FALSE,FALSE,FALSE,TRUE,TRUE
+1119,1120,Usa,Usa,Usa,Usa,WB,WB,0.07994,FALSE,FALSE,FALSE,TRUE,TRUE
+1120,216,Usa,New York,Usa,New York,WB,WB,0.27002,TRUE,TRUE,FALSE,FALSE,TRUE
+1120,217,Usa,Usa,Usa,Usa,WB,WB,0.13577,FALSE,FALSE,FALSE,TRUE,TRUE
+1118,1121,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1121,1122,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1122,218,Usa,Usa,Usa,Usa,WB,WB,0.21572,FALSE,FALSE,FALSE,TRUE,TRUE
+1122,219,Usa,Maine,Usa,Maine,WB,DB,0.33626,TRUE,TRUE,TRUE,FALSE,FALSE
+1121,1123,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1123,220,Usa,Pennsylvania,Usa,Pennsylvania,WB,WB,0.32804,TRUE,TRUE,FALSE,FALSE,TRUE
+1123,221,Usa,New York,Usa,New York,WB,WB,0.27051,TRUE,TRUE,FALSE,FALSE,TRUE
+1073,1124,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1124,1125,Usa,Usa,Usa,Usa,WB,WB,0.00268,FALSE,FALSE,FALSE,TRUE,TRUE
+1125,1126,Usa,Usa,Usa,Usa,WB,WB,0.56229,FALSE,FALSE,FALSE,TRUE,TRUE
+1126,222,Usa,Usa,Usa,Usa,WB,WB,0.5654,FALSE,FALSE,FALSE,TRUE,TRUE
+1126,223,Usa,Oregon,Usa,Oregon,WB,DB,0.44518,TRUE,TRUE,TRUE,FALSE,FALSE
+1125,1127,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1127,1128,Usa,Florida,Usa,Florida,WB,WB,0.90451,TRUE,TRUE,FALSE,FALSE,TRUE
+1128,224,Florida,Florida,Florida,Florida,WB,WB,0.43688,FALSE,FALSE,FALSE,TRUE,TRUE
+1128,225,Florida,Florida,Florida,Florida,WB,DB,0.29715,FALSE,FALSE,TRUE,TRUE,FALSE
+1127,1129,Usa,Usa,Usa,Usa,WB,WB,0.08244,FALSE,FALSE,FALSE,TRUE,TRUE
+1129,226,Usa,Washington,Usa,Washington,WB,DB,0.87312,TRUE,TRUE,TRUE,FALSE,FALSE
+1129,1130,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1130,227,Usa,Usa,Usa,Usa,WB,WB,0.04525,FALSE,FALSE,FALSE,TRUE,TRUE
+1130,228,Usa,Usa,Usa,Usa,WB,WB,1.04525,FALSE,FALSE,FALSE,TRUE,TRUE
+1124,1131,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1131,229,Usa,Usa,Usa,Usa,WB,WB,0.13037,FALSE,FALSE,FALSE,TRUE,TRUE
+1131,1132,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1132,1133,Usa,Usa,Usa,Usa,WB,WB,0.61481,FALSE,FALSE,FALSE,TRUE,TRUE
+1133,230,Usa,Pennsylvania,Usa,Pennsylvania,WB,DB,0.51831,TRUE,TRUE,TRUE,FALSE,FALSE
+1133,1134,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1134,1135,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1135,231,Usa,Arizona,Usa,Arizona,WB,WB,0.4418,TRUE,TRUE,FALSE,FALSE,TRUE
+1135,1136,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1136,232,Usa,Usa,Usa,Usa,WB,WB,0.51557,FALSE,FALSE,FALSE,TRUE,TRUE
+1136,233,Usa,Usa,Usa,Usa,WB,WB,0.51557,FALSE,FALSE,FALSE,TRUE,TRUE
+1134,1137,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1137,234,Usa,Usa,Usa,Usa,WB,WB,0.51557,FALSE,FALSE,FALSE,TRUE,TRUE
+1137,1138,Usa,Usa,Usa,Usa,WB,WB,0.15252,FALSE,FALSE,FALSE,TRUE,TRUE
+1138,235,Usa,Usa,Usa,Usa,WB,WB,0.36304,FALSE,FALSE,FALSE,TRUE,TRUE
+1138,1139,Usa,Usa,Usa,Usa,WB,WB,0.07088,FALSE,FALSE,FALSE,TRUE,TRUE
+1139,236,Usa,Michigan,Usa,Michigan,WB,WB,0.51956,TRUE,TRUE,FALSE,FALSE,TRUE
+1139,1140,Usa,Usa,Usa,Usa,WB,WB,0.29016,FALSE,FALSE,FALSE,TRUE,TRUE
+1140,237,Usa,Michigan,Usa,Michigan,WB,WB,0.34721,TRUE,TRUE,FALSE,FALSE,TRUE
+1140,1141,Usa,Usa,Usa,Usa,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1141,238,Usa,Wisconsin,Usa,Wisconsin,WB,WB,0.10411,TRUE,TRUE,FALSE,FALSE,TRUE
+1141,239,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1132,1142,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1142,1143,Usa,Usa,Usa,Usa,WB,WB,0.61981,FALSE,FALSE,FALSE,TRUE,TRUE
+1143,1144,Usa,Usa,Usa,Usa,WB,WB,0.02372,FALSE,FALSE,FALSE,TRUE,TRUE
+1144,240,Usa,Minnesota,Usa,Minnesota,WB,WB,0.51424,TRUE,TRUE,FALSE,FALSE,TRUE
+1144,241,Usa,Pennsylvania,Usa,Pennsylvania,WB,WB,0.61287,TRUE,TRUE,FALSE,FALSE,TRUE
+1143,1145,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1145,1146,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1146,242,Usa,Usa,Usa,Usa,WB,DB,0.51056,FALSE,FALSE,TRUE,TRUE,FALSE
+1146,243,Usa,Oklahoma,Usa,Oklahoma,WB,DB,0.39308,TRUE,TRUE,TRUE,FALSE,FALSE
+1145,1147,Usa,Usa,Usa,Usa,WB,WB,0.34734,FALSE,FALSE,FALSE,TRUE,TRUE
+1147,244,Usa,Usa,Usa,Usa,WB,DM,0.16323,FALSE,FALSE,TRUE,TRUE,FALSE
+1147,245,Usa,Arizona,Usa,Arizona,WB,WB,0.57145,TRUE,TRUE,FALSE,FALSE,TRUE
+1142,1148,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1148,1149,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1149,1150,Usa,Usa,Usa,Usa,WB,WB,0.05773,FALSE,FALSE,FALSE,TRUE,TRUE
+1150,246,Usa,South Dakota,Usa,South Dakota,WB,DM,1.05625,TRUE,TRUE,TRUE,FALSE,FALSE
+1150,1151,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1151,1152,Usa,Usa,Usa,Usa,WB,WB,0.07264,FALSE,FALSE,FALSE,TRUE,TRUE
+1152,247,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1152,248,Usa,California,Usa,California,WB,WB,0.89891,TRUE,TRUE,FALSE,FALSE,TRUE
+1151,1153,Usa,Usa,Usa,Usa,WB,WB,0.56115,FALSE,FALSE,FALSE,TRUE,TRUE
+1153,249,Usa,Usa,Usa,Usa,WB,DB,0.51149,FALSE,FALSE,TRUE,TRUE,FALSE
+1153,250,Usa,Pennsylvania,Usa,Pennsylvania,WB,WB,0.6019,TRUE,TRUE,FALSE,FALSE,TRUE
+1149,1154,Usa,Usa,Usa,Usa,WB,DB,0.69321,FALSE,FALSE,TRUE,TRUE,FALSE
+1154,1155,Usa,Usa,Usa,Usa,DB,DB,0.33558,FALSE,FALSE,FALSE,TRUE,TRUE
+1155,251,Usa,Usa,Usa,Usa,DB,DB,0.10158,FALSE,FALSE,FALSE,TRUE,TRUE
+1155,1156,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1156,252,Usa,Usa,Usa,Usa,DB,DB,0.10158,FALSE,FALSE,FALSE,TRUE,TRUE
+1156,253,Usa,Ohio,Usa,Ohio,DB,DB,0.17556,TRUE,TRUE,FALSE,FALSE,TRUE
+1154,1157,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1157,254,Usa,Ohio,Usa,Ohio,DB,DB,0.51936,TRUE,TRUE,FALSE,FALSE,TRUE
+1157,1158,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1158,1159,Usa,Usa,Usa,Usa,DB,DB,0.43316,FALSE,FALSE,FALSE,TRUE,TRUE
+1159,255,Usa,Ohio,Usa,Ohio,DB,DB,0.06154,TRUE,TRUE,FALSE,FALSE,TRUE
+1159,1160,Usa,Usa,Usa,Usa,DB,DB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1160,256,Usa,Ohio,Usa,Ohio,DB,DB,0.0705,TRUE,TRUE,FALSE,FALSE,TRUE
+1160,1161,Usa,Usa,Usa,Usa,DB,DB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1161,257,Usa,Indiana,Usa,Indiana,DB,DB,0.07397,TRUE,TRUE,FALSE,FALSE,TRUE
+1161,258,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1158,1162,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1162,1163,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1163,259,Usa,Ohio,Usa,Ohio,DB,DB,0.55772,TRUE,TRUE,FALSE,FALSE,TRUE
+1163,1164,Usa,Usa,Usa,Usa,DB,WB,0.32345,FALSE,FALSE,TRUE,TRUE,FALSE
+1164,260,Usa,Wisconsin,Usa,Wisconsin,WB,WB,0.3466,TRUE,TRUE,FALSE,FALSE,TRUE
+1164,1165,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1165,261,Usa,Indiana,Usa,Indiana,WB,DB,0.19317,TRUE,TRUE,TRUE,FALSE,FALSE
+1165,262,Usa,Usa,Usa,Usa,WB,WB,0.11372,FALSE,FALSE,FALSE,TRUE,TRUE
+1162,1166,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1166,263,Usa,Ohio,Usa,Ohio,DB,DB,0.5221,TRUE,TRUE,FALSE,FALSE,TRUE
+1166,1167,Usa,Usa,Usa,Usa,DB,WB,0.17396,FALSE,FALSE,TRUE,TRUE,FALSE
+1167,264,Usa,Pennsylvania,Usa,Pennsylvania,WB,WB,0.32896,TRUE,TRUE,FALSE,FALSE,TRUE
+1167,1168,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1168,265,Usa,West Virginia,Usa,West Virginia,WB,WB,0.39471,TRUE,TRUE,FALSE,FALSE,TRUE
+1168,266,Usa,Usa,Usa,Usa,WB,WB,0.2632,FALSE,FALSE,FALSE,TRUE,TRUE
+1148,1169,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1169,1170,Usa,Usa,Usa,Usa,WB,WB,0.04935,FALSE,FALSE,FALSE,TRUE,TRUE
+1170,1171,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1171,267,Usa,Usa,Usa,Usa,WB,WB,1.08102,FALSE,FALSE,FALSE,TRUE,TRUE
+1171,268,Usa,Florida,Usa,Florida,WB,WM,0.08102,TRUE,TRUE,TRUE,FALSE,FALSE
+1170,1172,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1172,1173,Usa,Usa,Usa,Usa,WB,WB,0.85283,FALSE,FALSE,FALSE,TRUE,TRUE
+1173,1174,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1174,269,Usa,South Carolina,Usa,South Carolina,WB,WB,0.29121,TRUE,TRUE,FALSE,FALSE,TRUE
+1174,270,Usa,Usa,Usa,Usa,WB,WB,0.22819,FALSE,FALSE,FALSE,TRUE,TRUE
+1173,1175,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1175,1176,Usa,Usa,Usa,Usa,WB,DB,0.22819,FALSE,FALSE,TRUE,TRUE,FALSE
+1176,271,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1176,272,Usa,Ohio,Usa,Ohio,DB,DB,0.20822,TRUE,TRUE,FALSE,FALSE,TRUE
+1175,1177,Usa,West Virginia,Usa,West Virginia,WB,DB,0.22546,TRUE,TRUE,TRUE,FALSE,FALSE
+1177,273,West Virginia,Usa,West Virginia,Usa,DB,DB,0.00273,TRUE,TRUE,FALSE,FALSE,TRUE
+1177,274,West Virginia,West Virginia,West Virginia,West Virginia,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1172,1178,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1178,1179,Usa,Usa,Usa,Usa,WB,WB,0.08102,FALSE,FALSE,FALSE,TRUE,TRUE
+1179,275,Usa,Usa,Usa,Usa,WB,DB,4e-8,FALSE,FALSE,TRUE,TRUE,FALSE
+1179,276,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1178,1180,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1180,1181,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1181,277,Usa,Usa,Usa,Usa,WB,DB,0.08102,FALSE,FALSE,TRUE,TRUE,FALSE
+1181,278,Usa,Kansas,Usa,Kansas,WB,DM,1.02911,TRUE,TRUE,TRUE,FALSE,FALSE
+1180,1182,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1182,279,Usa,Usa,Usa,Usa,WB,WB,0.08102,FALSE,FALSE,FALSE,TRUE,TRUE
+1182,1183,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1183,1184,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1184,280,Usa,Michigan,Usa,Michigan,WB,DB,1.07829,TRUE,TRUE,TRUE,FALSE,FALSE
+1184,1185,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1185,281,Usa,Usa,Usa,Usa,WB,DB,1.08102,FALSE,FALSE,TRUE,TRUE,FALSE
+1185,282,Usa,Usa,Usa,Usa,WB,WB,0.08102,FALSE,FALSE,FALSE,TRUE,TRUE
+1183,1186,Usa,Usa,Usa,Usa,WB,WB,0.40555,FALSE,FALSE,FALSE,TRUE,TRUE
+1186,1187,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1187,283,Usa,Maryland,Usa,Maryland,WB,WB,0.74671,TRUE,TRUE,FALSE,FALSE,TRUE
+1187,284,Usa,Usa,Usa,Usa,WB,DB,0.67547,FALSE,FALSE,TRUE,TRUE,FALSE
+1186,1188,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1188,285,Usa,Usa,Usa,Usa,WB,WB,0.67547,FALSE,FALSE,FALSE,TRUE,TRUE
+1188,1189,Usa,Usa,Usa,Usa,WB,DB,0.67347,FALSE,FALSE,TRUE,TRUE,FALSE
+1189,286,Usa,Missouri,Usa,Missouri,DB,DB,0.10337,TRUE,TRUE,FALSE,FALSE,TRUE
+1189,1190,Usa,Usa,Usa,Usa,DB,DB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1190,287,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1190,288,Usa,Missouri,Usa,Missouri,DB,DB,0.07397,TRUE,TRUE,FALSE,FALSE,TRUE
+1169,1191,Usa,Usa,Usa,Usa,WB,WB,0.00259,FALSE,FALSE,FALSE,TRUE,TRUE
+1191,289,Usa,California,Usa,California,WB,WB,1.17983,TRUE,TRUE,FALSE,FALSE,TRUE
+1191,1192,Usa,Usa,Usa,Usa,WB,WB,0.03944,FALSE,FALSE,FALSE,TRUE,TRUE
+1192,1193,Usa,Usa,Usa,Usa,WB,WB,0.41617,FALSE,FALSE,FALSE,TRUE,TRUE
+1193,290,Usa,Colorado,Usa,Colorado,WB,WB,0.73793,TRUE,TRUE,FALSE,FALSE,TRUE
+1193,291,Usa,Bc,Usa,Bc,WB,WB,0.59021,TRUE,TRUE,FALSE,FALSE,TRUE
+1192,1194,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1194,1195,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1195,1196,Usa,Usa,Usa,Usa,WB,WB,0.54927,FALSE,FALSE,FALSE,TRUE,TRUE
+1196,292,Usa,Nevada,Usa,Nevada,WB,DM,0.66784,TRUE,TRUE,TRUE,FALSE,FALSE
+1196,1197,Usa,Usa,Usa,Usa,WB,WB,0.53707,FALSE,FALSE,FALSE,TRUE,TRUE
+1197,293,Usa,Usa,Usa,Usa,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1197,1198,Usa,Usa,Usa,Usa,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1198,294,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1198,295,Usa,California,Usa,California,WB,WB,0.04384,TRUE,TRUE,FALSE,FALSE,TRUE
+1195,1199,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1199,296,Usa,California,Usa,California,WB,WM,1.36779,TRUE,TRUE,TRUE,FALSE,FALSE
+1199,1200,Usa,Usa,Usa,Usa,WB,WB,0.0283,FALSE,FALSE,FALSE,TRUE,TRUE
+1200,297,Usa,Bc,Usa,Bc,WB,WB,0.88791,TRUE,TRUE,FALSE,FALSE,TRUE
+1200,1201,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1201,1202,Usa,Usa,Usa,Usa,WB,WB,0.06004,FALSE,FALSE,FALSE,TRUE,TRUE
+1202,298,Usa,Texas,Usa,Texas,WB,WB,1.00548,TRUE,TRUE,FALSE,FALSE,TRUE
+1202,299,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1201,1203,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1203,300,Usa,Oklahoma,Usa,Oklahoma,WB,DB,1.03272,TRUE,TRUE,TRUE,FALSE,FALSE
+1203,1204,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1204,301,Usa,Usa,Usa,Usa,WB,WM,1.06004,FALSE,FALSE,TRUE,TRUE,FALSE
+1204,1205,Usa,Usa,Usa,Usa,WB,WB,0.02125,FALSE,FALSE,FALSE,TRUE,TRUE
+1205,302,Usa,Usa,Usa,Usa,WB,WB,0.03879,FALSE,FALSE,FALSE,TRUE,TRUE
+1205,1206,Usa,Usa,Usa,Usa,WB,DB,1.03879,FALSE,FALSE,TRUE,TRUE,FALSE
+1206,303,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1206,304,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1194,1207,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1207,1208,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1208,1209,Usa,Usa,Usa,Usa,WB,WB,0.32908,FALSE,FALSE,FALSE,TRUE,TRUE
+1209,305,Usa,Usa,Usa,Usa,WB,WM,0.75926,FALSE,FALSE,TRUE,TRUE,FALSE
+1209,306,Usa,Oklahoma,Usa,Oklahoma,WB,DB,0.95104,TRUE,TRUE,TRUE,FALSE,FALSE
+1208,1210,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1210,307,Usa,Illinois,Usa,Illinois,WB,WB,1.08561,TRUE,TRUE,FALSE,FALSE,TRUE
+1210,1211,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1211,308,Usa,Usa,Usa,Usa,WB,DB,1.08834,FALSE,FALSE,TRUE,TRUE,FALSE
+1211,1212,Usa,Usa,Usa,Usa,WB,WB,0.03206,FALSE,FALSE,FALSE,TRUE,TRUE
+1212,309,Usa,Virginia,Usa,Virginia,WB,WB,1.28916,TRUE,TRUE,FALSE,FALSE,TRUE
+1212,310,Usa,Usa,Usa,Usa,WB,WB,0.05628,FALSE,FALSE,FALSE,TRUE,TRUE
+1207,1213,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1213,1214,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1214,1215,Usa,Usa,Usa,Usa,WB,WB,0.4043,FALSE,FALSE,FALSE,TRUE,TRUE
+1215,1216,Usa,Usa,Usa,Usa,WB,WB,0.3721,FALSE,FALSE,FALSE,TRUE,TRUE
+1216,311,Usa,Usa,Usa,Usa,WB,DB,0.31193,FALSE,FALSE,TRUE,TRUE,FALSE
+1216,1217,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1217,312,Usa,Colorado,Usa,Colorado,WB,WB,0.50097,TRUE,TRUE,FALSE,FALSE,TRUE
+1217,1218,Usa,Bc,Usa,Bc,WB,WB,0.16149,TRUE,TRUE,FALSE,FALSE,TRUE
+1218,313,Bc,Oregon,Bc,Oregon,WB,DB,0.16414,TRUE,TRUE,TRUE,FALSE,FALSE
+1218,314,Bc,Bc,Bc,Bc,WB,WB,0.0029,FALSE,FALSE,FALSE,TRUE,TRUE
+1215,1219,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1219,1220,Usa,Usa,Usa,Usa,WB,WB,0.23182,FALSE,FALSE,FALSE,TRUE,TRUE
+1220,315,Usa,Usa,Usa,Usa,WB,WB,0.45222,FALSE,FALSE,FALSE,TRUE,TRUE
+1220,316,Usa,Usa,Usa,Usa,WB,WB,0.45222,FALSE,FALSE,FALSE,TRUE,TRUE
+1219,1221,Usa,Usa,Usa,Usa,WB,WB,0.33817,FALSE,FALSE,FALSE,TRUE,TRUE
+1221,317,Usa,Ohio,Usa,Ohio,WB,WB,0.46641,TRUE,TRUE,FALSE,FALSE,TRUE
+1221,1222,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1222,318,Usa,Virginia,Usa,Virginia,WB,WB,0.47463,TRUE,TRUE,FALSE,FALSE,TRUE
+1222,1223,Usa,Usa,Usa,Usa,WB,WB,0.34586,FALSE,FALSE,FALSE,TRUE,TRUE
+1223,319,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1223,320,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1214,1224,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1224,1225,Usa,Bc,Usa,Bc,WB,WB,0.88615,TRUE,TRUE,FALSE,FALSE,TRUE
+1225,321,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1225,322,Bc,Usa,Bc,Usa,WB,WB,0.20219,TRUE,TRUE,FALSE,FALSE,TRUE
+1224,1226,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1226,1227,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1227,323,Usa,Usa,Usa,Usa,WB,WB,0.08834,FALSE,FALSE,FALSE,TRUE,TRUE
+1227,1228,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1228,324,Usa,Usa,Usa,Usa,WB,DB,1.08834,FALSE,FALSE,TRUE,TRUE,FALSE
+1228,1229,Usa,Usa,Usa,Usa,WB,WB,0.08834,FALSE,FALSE,FALSE,TRUE,TRUE
+1229,325,Usa,Usa,Usa,Usa,WB,DB,4e-8,FALSE,FALSE,TRUE,TRUE,FALSE
+1229,326,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1226,1230,Usa,Usa,Usa,Usa,WB,WB,0.4123,FALSE,FALSE,FALSE,TRUE,TRUE
+1230,327,Usa,Colorado,Usa,Colorado,WB,DB,0.7555,TRUE,TRUE,TRUE,FALSE,FALSE
+1230,1231,Usa,Usa,Usa,Usa,WB,WB,0.18018,FALSE,FALSE,FALSE,TRUE,TRUE
+1231,328,Usa,Usa,Usa,Usa,WB,WB,0.49587,FALSE,FALSE,FALSE,TRUE,TRUE
+1231,1232,Usa,Usa,Usa,Usa,WB,WB,0.12665,FALSE,FALSE,FALSE,TRUE,TRUE
+1232,1233,Usa,Usa,Usa,Usa,WB,WB,0.36922,FALSE,FALSE,FALSE,TRUE,TRUE
+1233,329,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1233,330,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1232,1234,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1234,331,Usa,Usa,Usa,Usa,WB,DB,0.36922,FALSE,FALSE,TRUE,TRUE,FALSE
+1234,332,Usa,Usa,Usa,Usa,WB,WB,0.36922,FALSE,FALSE,FALSE,TRUE,TRUE
+1213,1235,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1235,333,Usa,Bc,Usa,Bc,WB,WB,0.89708,TRUE,TRUE,FALSE,FALSE,TRUE
+1235,1236,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1236,1237,Usa,Usa,Usa,Usa,WB,WB,0.4087,FALSE,FALSE,FALSE,TRUE,TRUE
+1237,334,Usa,Bc,Usa,Bc,WB,WB,0.58948,TRUE,TRUE,FALSE,FALSE,TRUE
+1237,1238,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1238,335,Usa,Usa,Usa,Usa,WB,WB,0.67964,FALSE,FALSE,FALSE,TRUE,TRUE
+1238,336,Usa,Usa,Usa,Usa,WB,WB,0.67964,FALSE,FALSE,FALSE,TRUE,TRUE
+1236,1239,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1239,1240,Usa,Usa,Usa,Usa,WB,WB,0.60017,FALSE,FALSE,FALSE,TRUE,TRUE
+1240,1241,Usa,Usa,Usa,Usa,WB,WB,0.3832,FALSE,FALSE,FALSE,TRUE,TRUE
+1241,337,Usa,South Dakota,Usa,South Dakota,WB,DB,0.46113,TRUE,TRUE,TRUE,FALSE,FALSE
+1241,338,Usa,Montana,Usa,Montana,WB,WB,0.43647,TRUE,TRUE,FALSE,FALSE,TRUE
+1240,1242,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1242,1243,Usa,Usa,Usa,Usa,WB,WB,0.48816,FALSE,FALSE,FALSE,TRUE,TRUE
+1243,339,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1243,340,Usa,Colorado,Usa,Colorado,WB,WB,0.12877,TRUE,TRUE,FALSE,FALSE,TRUE
+1242,1244,Usa,Usa,Usa,Usa,WB,WB,0.23465,FALSE,FALSE,FALSE,TRUE,TRUE
+1244,341,Usa,Usa,Usa,Usa,WB,WB,0.25351,FALSE,FALSE,FALSE,TRUE,TRUE
+1244,1245,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1245,1246,Usa,Usa,Usa,Usa,WB,WB,8.8e-4,FALSE,FALSE,FALSE,TRUE,TRUE
+1246,342,Usa,Usa,Usa,Usa,WB,WB,0.25263,FALSE,FALSE,FALSE,TRUE,TRUE
+1246,343,Usa,Usa,Usa,Usa,WB,DB,0.25263,FALSE,FALSE,TRUE,TRUE,FALSE
+1245,1247,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1247,344,Usa,Usa,Usa,Usa,WB,WB,0.25351,FALSE,FALSE,FALSE,TRUE,TRUE
+1247,345,Usa,Usa,Usa,Usa,WB,DB,0.25351,FALSE,FALSE,TRUE,TRUE,FALSE
+1239,1248,Usa,Usa,Usa,Usa,WB,WB,0.03842,FALSE,FALSE,FALSE,TRUE,TRUE
+1248,346,Usa,South Dakota,Usa,South Dakota,WB,DB,0.97888,TRUE,TRUE,TRUE,FALSE,FALSE
+1248,1249,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1249,1250,Usa,Usa,Usa,Usa,WB,WB,0.36894,FALSE,FALSE,FALSE,TRUE,TRUE
+1250,347,Usa,Usa,Usa,Usa,WB,WB,0.47333,FALSE,FALSE,FALSE,TRUE,TRUE
+1250,1251,Usa,Usa,Usa,Usa,WB,WB,0.37183,FALSE,FALSE,FALSE,TRUE,TRUE
+1251,348,Usa,Usa,Usa,Usa,WB,WB,0.1015,FALSE,FALSE,FALSE,TRUE,TRUE
+1251,349,Usa,California,Usa,California,WB,WB,0.21352,TRUE,TRUE,FALSE,FALSE,TRUE
+1249,1252,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1252,350,Usa,Usa,Usa,Usa,WB,WB,0.04991,FALSE,FALSE,FALSE,TRUE,TRUE
+1252,1253,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1253,1254,Usa,Usa,Usa,Usa,WB,WB,0.21852,FALSE,FALSE,FALSE,TRUE,TRUE
+1254,351,Usa,Arizona,Usa,Arizona,WB,DB,0.9492,TRUE,TRUE,TRUE,FALSE,FALSE
+1254,1255,Usa,Usa,Usa,Usa,WB,WB,0.83139,FALSE,FALSE,FALSE,TRUE,TRUE
+1255,352,Usa,Montana,Usa,Montana,WB,WB,0.26575,TRUE,TRUE,FALSE,FALSE,TRUE
+1255,353,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1253,1256,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1256,1257,Usa,Usa,Usa,Usa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1257,354,Usa,Usa,Usa,Usa,WB,DB,0.04991,FALSE,FALSE,TRUE,TRUE,FALSE
+1257,355,Usa,Virginia,Usa,Virginia,WB,WB,1.2006,TRUE,TRUE,FALSE,FALSE,TRUE
+1256,1258,Usa,Usa,Usa,Usa,WB,WB,0.67541,FALSE,FALSE,FALSE,TRUE,TRUE
+1258,356,Usa,Usa,Usa,Usa,WB,WB,0.37451,FALSE,FALSE,FALSE,TRUE,TRUE
+1258,357,Usa,Usa,Usa,Usa,WB,WB,0.37451,FALSE,FALSE,FALSE,TRUE,TRUE
+902,1259,Vietnam,Massachusetts,Vietnam,Massachusetts,WB,WB,1.52555,TRUE,TRUE,FALSE,FALSE,TRUE
+1259,1260,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.45947,FALSE,FALSE,FALSE,TRUE,TRUE
+1260,1261,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.33731,FALSE,FALSE,FALSE,TRUE,TRUE
+1261,358,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.1865,FALSE,FALSE,FALSE,TRUE,TRUE
+1261,1262,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1262,1263,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.118,FALSE,FALSE,FALSE,TRUE,TRUE
+1263,359,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1263,360,Massachusetts,Ma,Massachusetts,Ma,WB,WB,0.03014,TRUE,TRUE,FALSE,FALSE,TRUE
+1262,1264,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1264,361,Massachusetts,Ma,Massachusetts,Ma,WB,WB,0.14266,TRUE,TRUE,FALSE,FALSE,TRUE
+1264,1265,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1265,362,Massachusetts,Maine,Massachusetts,Maine,WB,DB,0.13992,TRUE,TRUE,TRUE,FALSE,FALSE
+1265,1266,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.3166,FALSE,FALSE,FALSE,TRUE,TRUE
+1266,363,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.06168,FALSE,FALSE,FALSE,TRUE,TRUE
+1266,1267,Massachusetts,Ma,Massachusetts,Ma,WB,WB,0.07538,TRUE,TRUE,FALSE,FALSE,TRUE
+1267,364,Ma,Ma,Ma,Ma,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1267,365,Ma,Ma,Ma,Ma,WB,WB,0.01918,FALSE,FALSE,FALSE,TRUE,TRUE
+1260,1268,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.51049,FALSE,FALSE,FALSE,TRUE,TRUE
+1268,366,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.87907,FALSE,FALSE,FALSE,TRUE,TRUE
+1268,1269,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,1.12647,FALSE,FALSE,FALSE,TRUE,TRUE
+1269,367,Massachusetts,Florida,Massachusetts,Florida,WB,WB,0.51972,TRUE,TRUE,FALSE,FALSE,TRUE
+1269,1270,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.12671,FALSE,FALSE,FALSE,TRUE,TRUE
+1270,1271,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1271,368,Massachusetts,Florida,Massachusetts,Florida,WB,WB,0.45055,TRUE,TRUE,FALSE,FALSE,TRUE
+1271,1272,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.0856,FALSE,FALSE,FALSE,TRUE,TRUE
+1272,369,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.48807,FALSE,FALSE,FALSE,TRUE,TRUE
+1272,370,Massachusetts,Ohio,Massachusetts,Ohio,WB,WB,0.21152,TRUE,TRUE,FALSE,FALSE,TRUE
+1270,1273,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.00673,FALSE,FALSE,FALSE,TRUE,TRUE
+1273,1274,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.0364,FALSE,FALSE,FALSE,TRUE,TRUE
+1274,371,Massachusetts,Virginia,Massachusetts,Virginia,WB,WB,0.5688,TRUE,TRUE,FALSE,FALSE,TRUE
+1274,1275,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.29066,FALSE,FALSE,FALSE,TRUE,TRUE
+1275,372,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.29454,FALSE,FALSE,FALSE,TRUE,TRUE
+1275,373,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.29454,FALSE,FALSE,FALSE,TRUE,TRUE
+1273,1276,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1276,374,Massachusetts,Maine,Massachusetts,Maine,WB,WB,0.5888,TRUE,TRUE,FALSE,FALSE,TRUE
+1276,1277,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.17486,FALSE,FALSE,FALSE,TRUE,TRUE
+1277,1278,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1278,375,Massachusetts,Georgia,Massachusetts,Georgia,WB,WB,0.30731,TRUE,TRUE,FALSE,FALSE,TRUE
+1278,376,Massachusetts,Minnesota,Massachusetts,Minnesota,WB,DB,0.65711,TRUE,TRUE,TRUE,FALSE,FALSE
+1277,1279,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.1974,FALSE,FALSE,FALSE,TRUE,TRUE
+1279,1280,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.19913,FALSE,FALSE,FALSE,TRUE,TRUE
+1280,377,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.25785,FALSE,FALSE,FALSE,TRUE,TRUE
+1280,378,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.02561,FALSE,FALSE,FALSE,TRUE,TRUE
+1279,1281,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.16865,FALSE,FALSE,FALSE,TRUE,TRUE
+1281,379,Massachusetts,Massachusetts,Massachusetts,Massachusetts,WB,WB,0.16811,FALSE,FALSE,FALSE,TRUE,TRUE
+1281,380,Massachusetts,New Hampshire,Massachusetts,New Hampshire,WB,WB,0.05335,TRUE,TRUE,FALSE,FALSE,TRUE
+1259,1282,Massachusetts,Minnesota,Massachusetts,Minnesota,WB,WB,0.51529,TRUE,TRUE,FALSE,FALSE,TRUE
+1282,381,Minnesota,South Carolina,Minnesota,South Carolina,WB,WB,0.23511,TRUE,TRUE,FALSE,FALSE,TRUE
+1282,1283,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1283,1284,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1284,382,Minnesota,South Dakota,Minnesota,South Dakota,WB,WB,0.42963,TRUE,TRUE,FALSE,FALSE,TRUE
+1284,383,Minnesota,Delaware,Minnesota,Delaware,WB,WB,0.31456,TRUE,TRUE,FALSE,FALSE,TRUE
+1283,1285,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1285,1286,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1286,1287,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1287,384,Minnesota,North Carolina,Minnesota,North Carolina,WB,DB,0.46525,TRUE,TRUE,TRUE,FALSE,FALSE
+1287,1288,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.10259,FALSE,FALSE,FALSE,TRUE,TRUE
+1288,385,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.37362,FALSE,FALSE,TRUE,TRUE,FALSE
+1288,386,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.35992,FALSE,FALSE,FALSE,TRUE,TRUE
+1286,1289,Minnesota,Bc,Minnesota,Bc,WB,WB,0.35803,TRUE,TRUE,FALSE,FALSE,TRUE
+1289,387,Bc,Idaho,Bc,Idaho,WB,WB,0.57297,TRUE,TRUE,FALSE,FALSE,TRUE
+1289,1290,Bc,Bc,Bc,Bc,WB,WB,0.00125,FALSE,FALSE,FALSE,TRUE,TRUE
+1290,1291,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1291,388,Bc,Bc,Bc,Bc,WB,WB,0.33337,FALSE,FALSE,FALSE,TRUE,TRUE
+1291,389,Bc,Washington,Bc,Washington,WB,DB,0.26761,TRUE,TRUE,TRUE,FALSE,FALSE
+1290,1292,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1292,390,Bc,Bc,Bc,Bc,WB,DB,0.19364,FALSE,FALSE,TRUE,TRUE,FALSE
+1292,1293,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1293,1294,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1294,1295,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1295,391,Bc,Montana,Bc,Montana,WB,WB,0.2046,TRUE,TRUE,FALSE,FALSE,TRUE
+1295,392,Bc,Washington,Bc,Washington,WB,WB,0.25118,TRUE,TRUE,FALSE,FALSE,TRUE
+1294,1296,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1296,1297,Bc,Washington,Bc,Washington,WB,WB,0.14328,TRUE,TRUE,FALSE,FALSE,TRUE
+1297,393,Washington,Washington,Washington,Washington,WB,WB,0.05584,FALSE,FALSE,FALSE,TRUE,TRUE
+1297,1298,Washington,Washington,Washington,Washington,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1298,394,Washington,Washington,Washington,Washington,WB,DB,0.20652,FALSE,FALSE,TRUE,TRUE,FALSE
+1298,1299,Washington,Bc,Washington,Bc,WB,WB,0.09968,TRUE,TRUE,FALSE,FALSE,TRUE
+1299,395,Bc,Bc,Bc,Bc,WB,DB,4e-8,FALSE,FALSE,TRUE,TRUE,FALSE
+1299,396,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1296,1300,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1300,397,Bc,Bc,Bc,Bc,WB,DB,0.22104,FALSE,FALSE,TRUE,TRUE,FALSE
+1300,1301,Bc,California,Bc,California,WB,WB,0.33896,TRUE,TRUE,FALSE,FALSE,TRUE
+1301,398,California,California,California,California,WB,WB,0.23824,FALSE,FALSE,FALSE,TRUE,TRUE
+1301,1302,California,California,California,California,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1302,399,California,California,California,California,WB,WB,0.05468,FALSE,FALSE,FALSE,TRUE,TRUE
+1302,400,California,California,California,California,WB,WB,0.10399,FALSE,FALSE,FALSE,TRUE,TRUE
+1293,1303,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1303,1304,Bc,Bc,Bc,Bc,WB,WB,0.13684,FALSE,FALSE,FALSE,TRUE,TRUE
+1304,401,Bc,Bc,Bc,Bc,WB,WB,0.05954,FALSE,FALSE,FALSE,TRUE,TRUE
+1304,1305,Bc,Bc,Bc,Bc,WB,DB,0.002,FALSE,FALSE,TRUE,TRUE,FALSE
+1305,402,Bc,Bc,Bc,Bc,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1305,403,Bc,Washington,Bc,Washington,DB,DB,0.06849,TRUE,TRUE,FALSE,FALSE,TRUE
+1303,1306,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1306,1307,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1307,404,Bc,Montana,Bc,Montana,WB,DB,0.18268,TRUE,TRUE,TRUE,FALSE,FALSE
+1307,1308,Bc,California,Bc,California,WB,WB,0.28826,TRUE,TRUE,FALSE,FALSE,TRUE
+1308,405,California,California,California,California,WB,WB,0.73552,FALSE,FALSE,FALSE,TRUE,TRUE
+1308,406,California,California,California,California,WB,WB,0.53826,FALSE,FALSE,FALSE,TRUE,TRUE
+1306,1309,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1309,407,Bc,Alaska,Bc,Alaska,WB,WB,0.46487,TRUE,TRUE,FALSE,FALSE,TRUE
+1309,1310,Bc,Bc,Bc,Bc,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1310,408,Bc,Washington,Bc,Washington,WB,WB,0.24844,TRUE,TRUE,FALSE,FALSE,TRUE
+1310,1311,Bc,Bc,Bc,Bc,WB,WB,0.20194,FALSE,FALSE,FALSE,TRUE,TRUE
+1311,409,Bc,Bc,Bc,Bc,WB,WB,0.27937,FALSE,FALSE,FALSE,TRUE,TRUE
+1311,410,Bc,Bc,Bc,Bc,WB,WB,0.24376,FALSE,FALSE,FALSE,TRUE,TRUE
+1285,1312,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1312,411,Minnesota,Missouri,Minnesota,Missouri,WB,DB,0.41867,TRUE,TRUE,TRUE,FALSE,FALSE
+1312,1313,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1313,1314,Minnesota,North Carolina,Minnesota,North Carolina,WB,WB,0.24059,TRUE,TRUE,FALSE,FALSE,TRUE
+1314,412,North Carolina,Missouri,North Carolina,Missouri,WB,DB,0.17808,TRUE,TRUE,TRUE,FALSE,FALSE
+1314,413,North Carolina,North Carolina,North Carolina,North Carolina,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1313,1315,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1315,1316,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1316,1317,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1317,414,Minnesota,Indiana,Minnesota,Indiana,WB,WB,0.50086,TRUE,TRUE,FALSE,FALSE,TRUE
+1317,1318,Minnesota,Pennsylvania,Minnesota,Pennsylvania,WB,WB,0.49948,TRUE,TRUE,FALSE,FALSE,TRUE
+1318,415,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,0.06988,FALSE,FALSE,FALSE,TRUE,TRUE
+1318,416,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,DB,0.01783,FALSE,FALSE,TRUE,TRUE,FALSE
+1316,1319,Minnesota,Florida,Minnesota,Florida,WB,WB,0.06205,TRUE,TRUE,FALSE,FALSE,TRUE
+1319,1320,Florida,Georgia,Florida,Georgia,WB,WB,0.17796,TRUE,TRUE,FALSE,FALSE,TRUE
+1320,417,Georgia,Iowa,Georgia,Iowa,WB,DB,0.21702,TRUE,TRUE,TRUE,FALSE,FALSE
+1320,418,Georgia,Georgia,Georgia,Georgia,WB,WB,0.12935,FALSE,FALSE,FALSE,TRUE,TRUE
+1319,1321,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1321,419,Florida,Florida,Florida,Florida,WB,WB,0.24429,FALSE,FALSE,FALSE,TRUE,TRUE
+1321,1322,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1322,1323,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1323,420,Florida,Indiana,Florida,Indiana,WB,WB,0.42512,TRUE,TRUE,FALSE,FALSE,TRUE
+1323,1324,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1324,1325,Florida,Florida,Florida,Florida,WB,WB,0.17413,FALSE,FALSE,FALSE,TRUE,TRUE
+1325,1326,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1326,421,Florida,Florida,Florida,Florida,WB,WB,0.53318,FALSE,FALSE,FALSE,TRUE,TRUE
+1326,422,Florida,Florida,Florida,Florida,WB,WB,0.51948,FALSE,FALSE,FALSE,TRUE,TRUE
+1325,1327,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1327,423,Florida,Florida,Florida,Florida,WB,WB,0.13318,FALSE,FALSE,FALSE,TRUE,TRUE
+1327,1328,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1328,1329,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1329,424,Florida,Florida,Florida,Florida,WB,WB,0.31948,FALSE,FALSE,FALSE,TRUE,TRUE
+1329,425,Florida,Florida,Florida,Florida,WB,WB,0.30304,FALSE,FALSE,FALSE,TRUE,TRUE
+1328,1330,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1330,426,Florida,Michigan,Florida,Michigan,WB,WB,0.29756,TRUE,TRUE,FALSE,FALSE,TRUE
+1330,1331,Florida,Florida,Florida,Florida,WB,WB,0.07185,FALSE,FALSE,FALSE,TRUE,TRUE
+1331,427,Florida,Florida,Florida,Florida,WB,WB,0.48873,FALSE,FALSE,FALSE,TRUE,TRUE
+1331,428,Florida,Florida,Florida,Florida,WB,WB,0.29695,FALSE,FALSE,FALSE,TRUE,TRUE
+1324,1332,Florida,Georgia,Florida,Georgia,WB,WB,0.09331,TRUE,TRUE,FALSE,FALSE,TRUE
+1332,1333,Georgia,South Carolina,Georgia,South Carolina,WB,WB,0.41594,TRUE,TRUE,FALSE,FALSE,TRUE
+1333,429,South Carolina,Tennessee,South Carolina,Tennessee,WB,WB,0.64189,TRUE,TRUE,FALSE,FALSE,TRUE
+1333,1334,South Carolina,South Carolina,South Carolina,South Carolina,WB,WB,0.00354,FALSE,FALSE,FALSE,TRUE,TRUE
+1334,430,South Carolina,South Carolina,South Carolina,South Carolina,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1334,431,South Carolina,South Carolina,South Carolina,South Carolina,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1332,1335,Georgia,Georgia,Georgia,Georgia,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1335,432,Georgia,New York,Georgia,New York,WB,WB,0.28797,TRUE,TRUE,FALSE,FALSE,TRUE
+1335,1336,Georgia,Georgia,Georgia,Georgia,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1336,1337,Georgia,Pennsylvania,Georgia,Pennsylvania,WB,WB,0.19482,TRUE,TRUE,FALSE,FALSE,TRUE
+1337,433,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,0.23013,FALSE,FALSE,FALSE,TRUE,TRUE
+1337,1338,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1338,434,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,0.49315,FALSE,FALSE,FALSE,TRUE,TRUE
+1338,1339,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,0.17095,FALSE,FALSE,FALSE,TRUE,TRUE
+1339,435,Pennsylvania,North Carolina,Pennsylvania,North Carolina,WB,WB,0.55507,TRUE,TRUE,FALSE,FALSE,TRUE
+1339,436,Pennsylvania,Virginia,Pennsylvania,Virginia,WB,WB,0.44,TRUE,TRUE,FALSE,FALSE,TRUE
+1336,1340,Georgia,Georgia,Georgia,Georgia,WB,WB,0.10531,FALSE,FALSE,FALSE,TRUE,TRUE
+1340,1341,Georgia,Georgia,Georgia,Georgia,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1341,437,Georgia,New Jersey,Georgia,New Jersey,WB,WB,0.74156,TRUE,TRUE,FALSE,FALSE,TRUE
+1341,1342,Georgia,Georgia,Georgia,Georgia,WB,WB,0.38474,FALSE,FALSE,FALSE,TRUE,TRUE
+1342,438,Georgia,Georgia,Georgia,Georgia,WB,WB,0.31846,FALSE,FALSE,FALSE,TRUE,TRUE
+1342,439,Georgia,Georgia,Georgia,Georgia,WB,WB,0.18696,FALSE,FALSE,FALSE,TRUE,TRUE
+1340,1343,Georgia,Georgia,Georgia,Georgia,WB,WB,0.21045,FALSE,FALSE,FALSE,TRUE,TRUE
+1343,1344,Georgia,Georgia,Georgia,Georgia,WB,WB,0.22284,FALSE,FALSE,FALSE,TRUE,TRUE
+1344,440,Georgia,Tennessee,Georgia,Tennessee,WB,WB,1.35485,TRUE,TRUE,FALSE,FALSE,TRUE
+1344,441,Georgia,Georgia,Georgia,Georgia,WB,WB,0.18772,FALSE,FALSE,FALSE,TRUE,TRUE
+1343,1345,Georgia,Georgia,Georgia,Georgia,WB,WB,0.41605,FALSE,FALSE,FALSE,TRUE,TRUE
+1345,442,Georgia,Georgia,Georgia,Georgia,WB,WB,0.17534,FALSE,FALSE,FALSE,TRUE,TRUE
+1345,443,Georgia,Georgia,Georgia,Georgia,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1322,1346,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1346,1347,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1347,444,Florida,Indiana,Florida,Indiana,WB,DB,0.43607,TRUE,TRUE,TRUE,FALSE,FALSE
+1347,1348,Florida,Florida,Florida,Florida,WB,WB,0.16498,FALSE,FALSE,FALSE,TRUE,TRUE
+1348,445,Florida,Alaska,Florida,Alaska,WB,WB,1.05466,TRUE,TRUE,FALSE,FALSE,TRUE
+1348,446,Florida,Iowa,Florida,Iowa,WB,WM,0.38891,TRUE,TRUE,TRUE,FALSE,FALSE
+1346,1349,Florida,Florida,Florida,Florida,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1349,447,Florida,New York,Florida,New York,WB,WB,0.41964,TRUE,TRUE,FALSE,FALSE,TRUE
+1349,1350,Florida,Ohio,Florida,Ohio,WB,WB,0.04089,TRUE,TRUE,FALSE,FALSE,TRUE
+1350,1351,Ohio,Ohio,Ohio,Ohio,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1351,1352,Ohio,Ohio,Ohio,Ohio,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1352,448,Ohio,Pennsylvania,Ohio,Pennsylvania,WB,WB,1.19518,TRUE,TRUE,FALSE,FALSE,TRUE
+1352,449,Ohio,Ohio,Ohio,Ohio,WB,DB,0.35409,FALSE,FALSE,TRUE,TRUE,FALSE
+1351,1353,Ohio,Ohio,Ohio,Ohio,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1353,450,Ohio,Vermont,Ohio,Vermont,WB,WB,0.4582,TRUE,TRUE,FALSE,FALSE,TRUE
+1353,451,Ohio,Michigan,Ohio,Michigan,WB,DB,0.39792,TRUE,TRUE,TRUE,FALSE,FALSE
+1350,1354,Ohio,Ohio,Ohio,Ohio,WB,WB,0.37259,FALSE,FALSE,FALSE,TRUE,TRUE
+1354,452,Ohio,Ohio,Ohio,Ohio,WB,DB,0.58424,FALSE,FALSE,TRUE,TRUE,FALSE
+1354,1355,Ohio,Minnesota,Ohio,Minnesota,WB,WB,0.22866,TRUE,TRUE,FALSE,FALSE,TRUE
+1355,1356,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1356,453,Minnesota,Pennsylvania,Minnesota,Pennsylvania,WB,DB,0.36928,TRUE,TRUE,TRUE,FALSE,FALSE
+1356,1357,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.10515,FALSE,FALSE,FALSE,TRUE,TRUE
+1357,454,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.11619,FALSE,FALSE,FALSE,TRUE,TRUE
+1357,1358,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1358,455,Minnesota,Massachusetts,Minnesota,Massachusetts,WB,WB,0.44222,TRUE,TRUE,FALSE,FALSE,TRUE
+1358,456,Minnesota,New Hampshire,Minnesota,New Hampshire,WB,WB,0.56824,TRUE,TRUE,FALSE,FALSE,TRUE
+1355,1359,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-5,FALSE,FALSE,FALSE,TRUE,TRUE
+1359,1360,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1360,1361,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.20485,FALSE,FALSE,FALSE,TRUE,TRUE
+1361,457,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1361,458,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.0137,FALSE,FALSE,FALSE,TRUE,TRUE
+1360,1362,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1362,459,Minnesota,Florida,Minnesota,Florida,WB,WB,0.44869,TRUE,TRUE,FALSE,FALSE,TRUE
+1362,460,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.40211,FALSE,FALSE,TRUE,TRUE,FALSE
+1359,1363,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.00849,FALSE,FALSE,FALSE,TRUE,TRUE
+1363,1364,Minnesota,Pennsylvania,Minnesota,Pennsylvania,WB,DB,0.22102,TRUE,TRUE,TRUE,FALSE,FALSE
+1364,461,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1364,1365,Pennsylvania,Minnesota,Pennsylvania,Minnesota,DB,WB,0.01644,TRUE,TRUE,TRUE,FALSE,FALSE
+1365,462,Minnesota,Newyork,Minnesota,Newyork,WB,WB,0.07671,TRUE,TRUE,FALSE,FALSE,TRUE
+1365,463,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1363,1366,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1366,1367,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1367,1368,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1368,464,Minnesota,Pennsylvania,Minnesota,Pennsylvania,WB,DB,0.26485,TRUE,TRUE,TRUE,FALSE,FALSE
+1368,465,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.17444,FALSE,FALSE,FALSE,TRUE,TRUE
+1367,1369,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1369,466,Minnesota,Pennsylvania,Minnesota,Pennsylvania,WB,WB,0.53061,TRUE,TRUE,FALSE,FALSE,TRUE
+1369,467,Minnesota,Massachusetts,Minnesota,Massachusetts,WB,WB,0.54979,TRUE,TRUE,FALSE,FALSE,TRUE
+1366,1370,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1370,1371,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1371,468,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.2402,FALSE,FALSE,FALSE,TRUE,TRUE
+1371,469,Minnesota,Rhode Island,Minnesota,Rhode Island,WB,DB,0.30595,TRUE,TRUE,TRUE,FALSE,FALSE
+1370,1372,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1372,470,Minnesota,Mississippi,Minnesota,Mississippi,WB,WB,0.42102,TRUE,TRUE,FALSE,FALSE,TRUE
+1372,471,Minnesota,Ohio,Minnesota,Ohio,WB,DB,0.20458,TRUE,TRUE,TRUE,FALSE,FALSE
+1315,1373,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1373,1374,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1374,472,Minnesota,Iowa,Minnesota,Iowa,WB,DB,0.40771,TRUE,TRUE,TRUE,FALSE,FALSE
+1374,473,Minnesota,South Carolina,Minnesota,South Carolina,WB,WB,0.23511,TRUE,TRUE,FALSE,FALSE,TRUE
+1373,1375,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1375,1376,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1376,474,Minnesota,Wisconsin,Minnesota,Wisconsin,WB,WB,0.61319,TRUE,TRUE,FALSE,FALSE,TRUE
+1376,1377,Minnesota,California,Minnesota,California,WB,WB,0.74088,TRUE,TRUE,FALSE,FALSE,TRUE
+1377,475,California,California,California,California,WB,WB,0.24217,FALSE,FALSE,FALSE,TRUE,TRUE
+1377,1378,California,South Dakota,California,South Dakota,WB,WB,0.13343,TRUE,TRUE,FALSE,FALSE,TRUE
+1378,476,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,0.22655,FALSE,FALSE,FALSE,TRUE,TRUE
+1378,477,South Dakota,Colorado,South Dakota,Colorado,WB,WB,0.29778,TRUE,TRUE,FALSE,FALSE,TRUE
+1375,1379,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1379,1380,Minnesota,New York,Minnesota,New York,WB,WB,0.15524,TRUE,TRUE,FALSE,FALSE,TRUE
+1380,478,New York,New York,New York,New York,WB,DB,0.20864,FALSE,FALSE,TRUE,TRUE,FALSE
+1380,1381,New York,New Hampshire,New York,New Hampshire,WB,WB,0.13266,TRUE,TRUE,FALSE,FALSE,TRUE
+1381,1382,New Hampshire,New York,New Hampshire,New York,WB,DB,0.06445,TRUE,TRUE,TRUE,FALSE,FALSE
+1382,479,New York,New York,New York,New York,DB,DB,0.08824,FALSE,FALSE,FALSE,TRUE,TRUE
+1382,480,New York,Maine,New York,Maine,DB,DB,0.07728,TRUE,TRUE,FALSE,FALSE,TRUE
+1381,1383,New Hampshire,New Hampshire,New Hampshire,New Hampshire,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1383,481,New Hampshire,New Hampshire,New Hampshire,New Hampshire,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1383,1384,New Hampshire,Ma,New Hampshire,Ma,WB,WB,0.14521,TRUE,TRUE,FALSE,FALSE,TRUE
+1384,482,Ma,Massachusetts,Ma,Massachusetts,WB,WB,0.03288,TRUE,TRUE,FALSE,FALSE,TRUE
+1384,483,Ma,Ma,Ma,Ma,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1379,1385,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.13015,FALSE,FALSE,FALSE,TRUE,TRUE
+1385,484,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.41181,FALSE,FALSE,FALSE,TRUE,TRUE
+1385,1386,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1386,1387,Minnesota,Michigan,Minnesota,Michigan,WB,DB,0.27038,TRUE,TRUE,TRUE,FALSE,FALSE
+1387,485,Michigan,Michigan,Michigan,Michigan,DB,DB,0.10034,FALSE,FALSE,FALSE,TRUE,TRUE
+1387,486,Michigan,Michigan,Michigan,Michigan,DB,DB,0.09486,FALSE,FALSE,FALSE,TRUE,TRUE
+1386,1388,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1388,1389,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1389,487,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.40359,FALSE,FALSE,FALSE,TRUE,TRUE
+1389,488,Minnesota,Wyoming,Minnesota,Wyoming,WB,DB,0.3351,TRUE,TRUE,TRUE,FALSE,FALSE
+1388,1390,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1390,1391,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1391,1392,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1392,489,Minnesota,North Dakota,Minnesota,North Dakota,WB,WB,0.41181,TRUE,TRUE,FALSE,FALSE,TRUE
+1392,490,Minnesota,New York,Minnesota,New York,WB,WB,0.60359,TRUE,TRUE,FALSE,FALSE,TRUE
+1391,1393,Minnesota,North Dakota,Minnesota,North Dakota,WB,WB,0.19975,TRUE,TRUE,FALSE,FALSE,TRUE
+1393,491,North Dakota,Kansas,North Dakota,Kansas,WB,WB,0.08878,TRUE,TRUE,FALSE,FALSE,TRUE
+1393,1394,North Dakota,North Dakota,North Dakota,North Dakota,WB,WB,0.00158,FALSE,FALSE,FALSE,TRUE,TRUE
+1394,1395,North Dakota,North Dakota,North Dakota,North Dakota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1395,492,North Dakota,North Dakota,North Dakota,North Dakota,WB,WB,0.12829,FALSE,FALSE,FALSE,TRUE,TRUE
+1395,493,North Dakota,North Dakota,North Dakota,North Dakota,WB,WB,0.16391,FALSE,FALSE,FALSE,TRUE,TRUE
+1394,1396,North Dakota,South Dakota,North Dakota,South Dakota,WB,WB,0.07349,TRUE,TRUE,FALSE,FALSE,TRUE
+1396,494,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1396,1397,South Dakota,Kansas,South Dakota,Kansas,WB,WB,0.00822,TRUE,TRUE,FALSE,FALSE,TRUE
+1397,495,Kansas,Kansas,Kansas,Kansas,WB,WB,0.03562,FALSE,FALSE,FALSE,TRUE,TRUE
+1397,496,Kansas,Kansas,Kansas,Kansas,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1390,1398,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1398,1399,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.02558,FALSE,FALSE,TRUE,TRUE,FALSE
+1399,1400,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1400,497,Minnesota,North Dakota,Minnesota,North Dakota,DB,WB,0.32322,TRUE,TRUE,TRUE,FALSE,FALSE
+1400,498,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,0.32322,FALSE,FALSE,FALSE,TRUE,TRUE
+1399,1401,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1401,499,Minnesota,South Dakota,Minnesota,South Dakota,DB,DB,0.3424,TRUE,TRUE,FALSE,FALSE,TRUE
+1401,1402,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,0.12323,FALSE,FALSE,FALSE,TRUE,TRUE
+1402,1403,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,0.19725,FALSE,FALSE,FALSE,TRUE,TRUE
+1403,500,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1403,501,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,0.00274,FALSE,FALSE,FALSE,TRUE,TRUE
+1402,1404,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,0.08345,FALSE,FALSE,FALSE,TRUE,TRUE
+1404,502,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,0.14668,FALSE,FALSE,FALSE,TRUE,TRUE
+1404,503,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,0.1275,FALSE,FALSE,FALSE,TRUE,TRUE
+1398,1405,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1405,1406,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.10717,FALSE,FALSE,FALSE,TRUE,TRUE
+1406,504,Minnesota,Bc,Minnesota,Bc,WB,DB,0.41971,TRUE,TRUE,TRUE,FALSE,FALSE
+1406,1407,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1407,505,Minnesota,North Dakota,Minnesota,North Dakota,WB,WB,0.23889,TRUE,TRUE,FALSE,FALSE,TRUE
+1407,506,Minnesota,Wyoming,Minnesota,Wyoming,WB,WB,0.41149,TRUE,TRUE,FALSE,FALSE,TRUE
+1405,1408,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1408,1409,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.0875,FALSE,FALSE,FALSE,TRUE,TRUE
+1409,507,Minnesota,South Dakota,Minnesota,South Dakota,WB,WB,0.21198,TRUE,TRUE,FALSE,FALSE,TRUE
+1409,1410,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1410,1411,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1411,1412,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1412,508,Minnesota,Indiana,Minnesota,Indiana,WB,DB,0.16266,TRUE,TRUE,TRUE,FALSE,FALSE
+1412,509,Minnesota,Iowa,Minnesota,Iowa,WB,DB,0.2476,TRUE,TRUE,TRUE,FALSE,FALSE
+1411,1413,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1413,510,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.25582,FALSE,FALSE,TRUE,TRUE,FALSE
+1413,511,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.31609,FALSE,FALSE,FALSE,TRUE,TRUE
+1410,1414,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.06751,FALSE,FALSE,FALSE,TRUE,TRUE
+1414,512,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.26776,FALSE,FALSE,FALSE,TRUE,TRUE
+1414,1415,Minnesota,Tennessee,Minnesota,Tennessee,WB,WB,0.002,TRUE,TRUE,FALSE,FALSE,TRUE
+1415,513,Tennessee,Tennessee,Tennessee,Tennessee,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1415,1416,Tennessee,Missouri,Tennessee,Missouri,WB,WB,0.10211,TRUE,TRUE,FALSE,FALSE,TRUE
+1416,514,Missouri,Minnesota,Missouri,Minnesota,WB,DB,0.09515,TRUE,TRUE,TRUE,FALSE,FALSE
+1416,1417,Missouri,Missouri,Missouri,Missouri,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1417,515,Missouri,Missouri,Missouri,Missouri,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1417,1418,Missouri,South Dakota,Missouri,South Dakota,WB,DB,0.04531,TRUE,TRUE,TRUE,FALSE,FALSE
+1418,516,South Dakota,Iowa,South Dakota,Iowa,DB,DB,0.02867,TRUE,TRUE,FALSE,FALSE,TRUE
+1418,1419,South Dakota,South Dakota,South Dakota,South Dakota,DB,DB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1419,517,South Dakota,Minnesota,South Dakota,Minnesota,DB,WB,0.0568,TRUE,TRUE,TRUE,FALSE,FALSE
+1419,1420,South Dakota,South Dakota,South Dakota,South Dakota,DB,DB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1420,518,South Dakota,South Dakota,South Dakota,South Dakota,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1420,519,South Dakota,Minnesota,South Dakota,Minnesota,DB,WB,0.02466,TRUE,TRUE,TRUE,FALSE,FALSE
+1408,1421,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1421,1422,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1422,1423,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1423,1424,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.09442,FALSE,FALSE,TRUE,TRUE,FALSE
+1424,520,Minnesota,Kansas,Minnesota,Kansas,DB,DB,0.19958,TRUE,TRUE,FALSE,FALSE,TRUE
+1424,521,Minnesota,Michigan,Minnesota,Michigan,DB,DB,0.13931,TRUE,TRUE,FALSE,FALSE,TRUE
+1423,1425,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1425,522,Minnesota,North Dakota,Minnesota,North Dakota,WB,WB,0.33784,TRUE,TRUE,FALSE,FALSE,TRUE
+1425,1426,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.09901,FALSE,FALSE,FALSE,TRUE,TRUE
+1426,523,Minnesota,Kansas,Minnesota,Kansas,WB,WB,0.16211,TRUE,TRUE,FALSE,FALSE,TRUE
+1426,524,Minnesota,South Dakota,Minnesota,South Dakota,WB,DB,0.22239,TRUE,TRUE,TRUE,FALSE,FALSE
+1422,1427,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1427,1428,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1428,1429,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1429,525,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.3351,FALSE,FALSE,TRUE,TRUE,FALSE
+1429,526,Minnesota,Indiana,Minnesota,Indiana,WB,DB,0.39811,TRUE,TRUE,TRUE,FALSE,FALSE
+1428,1430,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1430,527,Minnesota,North Dakota,Minnesota,North Dakota,WB,DB,0.39263,TRUE,TRUE,TRUE,FALSE,FALSE
+1430,1431,Minnesota,Colorado,Minnesota,Colorado,WB,WB,0.54679,TRUE,TRUE,FALSE,FALSE,TRUE
+1431,528,Colorado,Colorado,Colorado,Colorado,WB,WB,0.29242,FALSE,FALSE,FALSE,TRUE,TRUE
+1431,1432,Colorado,Colorado,Colorado,Colorado,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1432,1433,Colorado,Colorado,Colorado,Colorado,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1433,529,Colorado,Arkansas,Colorado,Arkansas,WB,WB,0.48968,TRUE,TRUE,FALSE,FALSE,TRUE
+1433,530,Colorado,California,Colorado,California,WB,WB,0.2979,TRUE,TRUE,FALSE,FALSE,TRUE
+1432,1434,Colorado,Florida,Colorado,Florida,WB,DB,0.13417,TRUE,TRUE,TRUE,FALSE,FALSE
+1434,531,Florida,Florida,Florida,Florida,DB,DB,0.20483,FALSE,FALSE,FALSE,TRUE,TRUE
+1434,532,Florida,Alabama,Florida,Alabama,DB,DB,0.32538,TRUE,TRUE,FALSE,FALSE,TRUE
+1427,1435,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1435,1436,Minnesota,Utah,Minnesota,Utah,WB,WB,0.26296,TRUE,TRUE,FALSE,FALSE,TRUE
+1436,533,Utah,Arizona,Utah,Arizona,WB,WB,0.6968,TRUE,TRUE,FALSE,FALSE,TRUE
+1436,1437,Utah,Utah,Utah,Utah,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1437,534,Utah,Utah,Utah,Utah,WB,DB,0.60365,FALSE,FALSE,TRUE,TRUE,FALSE
+1437,1438,Utah,Utah,Utah,Utah,WB,WB,0.17527,FALSE,FALSE,FALSE,TRUE,TRUE
+1438,535,Utah,Utah,Utah,Utah,WB,WB,0.2777,FALSE,FALSE,FALSE,TRUE,TRUE
+1438,536,Utah,California,Utah,California,WB,WB,0.56263,TRUE,TRUE,FALSE,FALSE,TRUE
+1435,1439,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.06983,FALSE,FALSE,FALSE,TRUE,TRUE
+1439,1440,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1440,537,Minnesota,Wyoming,Minnesota,Wyoming,WB,WB,0.31458,TRUE,TRUE,FALSE,FALSE,TRUE
+1440,1441,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1441,538,Minnesota,Nevada,Minnesota,Nevada,WB,DB,0.52828,TRUE,TRUE,TRUE,FALSE,FALSE
+1441,1442,Minnesota,Washington,Minnesota,Washington,WB,WB,0.41869,TRUE,TRUE,FALSE,FALSE,TRUE
+1442,539,Washington,Washington,Washington,Washington,WB,WM,0.03562,FALSE,FALSE,TRUE,TRUE,FALSE
+1442,540,Washington,Washington,Washington,Washington,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1439,1443,Minnesota,Idaho,Minnesota,Idaho,WB,DB,0.12847,TRUE,TRUE,TRUE,FALSE,FALSE
+1443,1444,Idaho,Montana,Idaho,Montana,DB,DB,0.13384,TRUE,TRUE,FALSE,FALSE,TRUE
+1444,541,Montana,Montana,Montana,Montana,DB,DB,0.06324,FALSE,FALSE,FALSE,TRUE,TRUE
+1444,542,Montana,California,Montana,California,DB,DB,0.50159,TRUE,TRUE,FALSE,FALSE,TRUE
+1443,1445,Idaho,Idaho,Idaho,Idaho,DB,DB,0.17516,FALSE,FALSE,FALSE,TRUE,TRUE
+1445,543,Idaho,Idaho,Idaho,Idaho,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1445,1446,Idaho,Idaho,Idaho,Idaho,DB,DB,0.01096,FALSE,FALSE,FALSE,TRUE,TRUE
+1446,544,Idaho,Bc,Idaho,Bc,DB,DB,0.07123,TRUE,TRUE,FALSE,FALSE,TRUE
+1446,545,Idaho,Idaho,Idaho,Idaho,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1421,1447,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1447,1448,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.05816,FALSE,FALSE,FALSE,TRUE,TRUE
+1448,546,Minnesota,North Dakota,Minnesota,North Dakota,WB,WB,0.30433,TRUE,TRUE,FALSE,FALSE,TRUE
+1448,1449,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1449,547,Minnesota,Missouri,Minnesota,Missouri,WB,DB,0.27694,TRUE,TRUE,TRUE,FALSE,FALSE
+1449,1450,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1450,548,Minnesota,Wisconsin,Minnesota,Wisconsin,WB,DB,0.33447,TRUE,TRUE,TRUE,FALSE,FALSE
+1450,1451,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1451,549,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.2879,FALSE,FALSE,TRUE,TRUE,FALSE
+1451,550,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.33447,FALSE,FALSE,FALSE,TRUE,TRUE
+1447,1452,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.07995,FALSE,FALSE,FALSE,TRUE,TRUE
+1452,1453,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.23778,FALSE,FALSE,TRUE,TRUE,FALSE
+1453,551,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,0.06395,FALSE,FALSE,FALSE,TRUE,TRUE
+1453,1454,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,0.04477,FALSE,FALSE,FALSE,TRUE,TRUE
+1454,552,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,0.0137,FALSE,FALSE,FALSE,TRUE,TRUE
+1454,553,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1452,1455,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1455,1456,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1456,1457,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1457,554,Minnesota,Alaska,Minnesota,Alaska,WB,WB,0.52639,TRUE,TRUE,FALSE,FALSE,TRUE
+1457,1458,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.10932,FALSE,FALSE,FALSE,TRUE,TRUE
+1458,555,Minnesota,Wyoming,Minnesota,Wyoming,WB,WB,0.2609,TRUE,TRUE,FALSE,FALSE,TRUE
+1458,556,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.25269,FALSE,FALSE,FALSE,TRUE,TRUE
+1456,1459,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1459,557,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.33187,FALSE,FALSE,FALSE,TRUE,TRUE
+1459,1460,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.10515,FALSE,FALSE,FALSE,TRUE,TRUE
+1460,1461,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1461,558,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.5637,FALSE,FALSE,FALSE,TRUE,TRUE
+1461,559,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.34179,FALSE,FALSE,FALSE,TRUE,TRUE
+1460,1462,Minnesota,Pennsylvania,Minnesota,Pennsylvania,WB,WB,0.96145,TRUE,TRUE,FALSE,FALSE,TRUE
+1462,560,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,0.10636,FALSE,FALSE,FALSE,TRUE,TRUE
+1462,1463,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1463,1464,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1464,561,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,0.14198,FALSE,FALSE,FALSE,TRUE,TRUE
+1464,562,Pennsylvania,New York,Pennsylvania,New York,WB,DB,0.5228,TRUE,TRUE,TRUE,FALSE,FALSE
+1463,1465,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,0.08993,FALSE,FALSE,FALSE,TRUE,TRUE
+1465,563,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1465,564,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1455,1466,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1466,1467,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.00931,FALSE,FALSE,FALSE,TRUE,TRUE
+1467,565,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.32255,FALSE,FALSE,FALSE,TRUE,TRUE
+1467,1468,Minnesota,Yemen,Minnesota,Yemen,WB,WB,0.002,TRUE,TRUE,FALSE,FALSE,TRUE
+1468,566,Yemen,Yemen,Yemen,Yemen,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1468,1469,Yemen,North Dakota,Yemen,North Dakota,WB,WB,0.22539,TRUE,TRUE,FALSE,FALSE,TRUE
+1469,567,North Dakota,Wisconsin,North Dakota,Wisconsin,WB,DB,0.08967,TRUE,TRUE,TRUE,FALSE,FALSE
+1469,1470,North Dakota,North Dakota,North Dakota,North Dakota,WB,WB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1470,568,North Dakota,Wisconsin,North Dakota,Wisconsin,WB,WB,0.05479,TRUE,TRUE,FALSE,FALSE,TRUE
+1470,569,North Dakota,North Dakota,North Dakota,North Dakota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1466,1471,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1471,1472,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.02335,FALSE,FALSE,FALSE,TRUE,TRUE
+1472,570,Minnesota,South Dakota,Minnesota,South Dakota,WB,DB,0.20715,TRUE,TRUE,TRUE,FALSE,FALSE
+1472,1473,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1473,1474,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1474,571,Minnesota,North Dakota,Minnesota,North Dakota,WB,WB,0.3277,TRUE,TRUE,FALSE,FALSE,TRUE
+1474,572,Minnesota,Utah,Minnesota,Utah,WB,WB,0.33866,TRUE,TRUE,FALSE,FALSE,TRUE
+1473,1475,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1475,1476,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1476,573,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.31126,FALSE,FALSE,FALSE,TRUE,TRUE
+1476,574,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.33318,FALSE,FALSE,TRUE,TRUE,FALSE
+1475,1477,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1477,575,Minnesota,Wisconsin,Minnesota,Wisconsin,WB,WB,0.30852,TRUE,TRUE,FALSE,FALSE,TRUE
+1477,1478,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.41176,FALSE,FALSE,FALSE,TRUE,TRUE
+1478,576,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.2584,FALSE,FALSE,FALSE,TRUE,TRUE
+1478,1479,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.1055,FALSE,FALSE,FALSE,TRUE,TRUE
+1479,577,Minnesota,Iowa,Minnesota,Iowa,WB,WB,0.48167,TRUE,TRUE,FALSE,FALSE,TRUE
+1479,1480,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1480,578,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.17208,FALSE,FALSE,FALSE,TRUE,TRUE
+1480,1481,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.0726,FALSE,FALSE,FALSE,TRUE,TRUE
+1481,579,Minnesota,Maine,Minnesota,Maine,WB,WB,0.34879,TRUE,TRUE,FALSE,FALSE,TRUE
+1481,1482,Minnesota,Pennsylvania,Minnesota,Pennsylvania,WB,DB,0.53235,TRUE,TRUE,TRUE,FALSE,FALSE
+1482,580,Pennsylvania,Pennsylvania,Pennsylvania,Pennsylvania,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1482,581,Pennsylvania,New York,Pennsylvania,New York,DB,WB,0.2,TRUE,TRUE,TRUE,FALSE,FALSE
+1471,1483,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1483,1484,Minnesota,Wisconsin,Minnesota,Wisconsin,WB,DB,0.32639,TRUE,TRUE,TRUE,FALSE,FALSE
+1484,582,Wisconsin,Wisconsin,Wisconsin,Wisconsin,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1484,583,Wisconsin,Wisconsin,Wisconsin,Wisconsin,DB,DB,0.02466,FALSE,FALSE,FALSE,TRUE,TRUE
+1483,1485,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1485,584,Minnesota,South Dakota,Minnesota,South Dakota,WB,DB,0.25515,TRUE,TRUE,TRUE,FALSE,FALSE
+1485,1486,Minnesota,Alaska,Minnesota,Alaska,WB,WB,0.19621,TRUE,TRUE,FALSE,FALSE,TRUE
+1486,585,Alaska,Alaska,Alaska,Alaska,WB,WB,0.56305,FALSE,FALSE,FALSE,TRUE,TRUE
+1486,1487,Alaska,Alaska,Alaska,Alaska,WB,WB,0.04078,FALSE,FALSE,FALSE,TRUE,TRUE
+1487,586,Alaska,Alaska,Alaska,Alaska,WB,WB,0.22364,FALSE,FALSE,FALSE,TRUE,TRUE
+1487,1488,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1488,1489,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1489,587,Alaska,Alaska,Alaska,Alaska,WB,WB,0.25652,FALSE,FALSE,FALSE,TRUE,TRUE
+1489,1490,Alaska,Colorado,Alaska,Colorado,WB,WB,0.29825,TRUE,TRUE,FALSE,FALSE,TRUE
+1490,588,Colorado,Colorado,Colorado,Colorado,WB,WB,0.4158,FALSE,FALSE,FALSE,TRUE,TRUE
+1490,589,Colorado,Colorado,Colorado,Colorado,WB,WB,0.47608,FALSE,FALSE,FALSE,TRUE,TRUE
+1488,1491,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1491,1492,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1492,1493,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1493,590,Alaska,Alaska,Alaska,Alaska,WB,WB,0.4757,FALSE,FALSE,FALSE,TRUE,TRUE
+1493,1494,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1494,591,Alaska,Bc,Alaska,Bc,WB,WB,0.64282,TRUE,TRUE,FALSE,FALSE,TRUE
+1494,1495,Alaska,Colorado,Alaska,Colorado,WB,WB,0.81816,TRUE,TRUE,FALSE,FALSE,TRUE
+1495,592,Colorado,Montana,Colorado,Montana,WB,WB,0.23288,TRUE,TRUE,FALSE,FALSE,TRUE
+1495,593,Colorado,Colorado,Colorado,Colorado,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1492,1496,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1496,1497,Alaska,Alaska,Alaska,Alaska,WB,WB,0.1907,FALSE,FALSE,FALSE,TRUE,TRUE
+1497,594,Alaska,Alaska,Alaska,Alaska,WB,WB,0.27952,FALSE,FALSE,FALSE,TRUE,TRUE
+1497,1498,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1498,595,Alaska,Bc,Alaska,Bc,WB,WB,0.46582,TRUE,TRUE,FALSE,FALSE,TRUE
+1498,596,Alaska,Alaska,Alaska,Alaska,WB,WB,0.32883,FALSE,FALSE,FALSE,TRUE,TRUE
+1496,1499,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1499,597,Alaska,Alaska,Alaska,Alaska,WB,WB,0.45104,FALSE,FALSE,FALSE,TRUE,TRUE
+1499,1500,Alaska,Alaska,Alaska,Alaska,WB,WB,0.18063,FALSE,FALSE,FALSE,TRUE,TRUE
+1500,598,Alaska,Oregon,Alaska,Oregon,WB,WB,0.38273,TRUE,TRUE,FALSE,FALSE,TRUE
+1500,1501,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1501,599,Alaska,Washington,Alaska,Washington,WB,WB,0.46493,TRUE,TRUE,FALSE,FALSE,TRUE
+1501,600,Alaska,Alaska,Alaska,Alaska,WB,WB,0.42931,FALSE,FALSE,FALSE,TRUE,TRUE
+1491,1502,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1502,1503,Alaska,Alaska,Alaska,Alaska,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1503,601,Alaska,Idaho,Alaska,Idaho,WB,WB,0.19624,TRUE,TRUE,FALSE,FALSE,TRUE
+1503,1504,Alaska,Alaska,Alaska,Alaska,WB,WB,0.29661,FALSE,FALSE,FALSE,TRUE,TRUE
+1504,602,Alaska,Colorado,Alaska,Colorado,WB,WB,0.48867,TRUE,TRUE,FALSE,FALSE,TRUE
+1504,603,Alaska,California,Alaska,California,WB,WB,0.43662,TRUE,TRUE,FALSE,FALSE,TRUE
+1502,1505,Alaska,Minnesota,Alaska,Minnesota,WB,WB,0.07734,TRUE,TRUE,FALSE,FALSE,TRUE
+1505,1506,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1506,604,Minnesota,Wyoming,Minnesota,Wyoming,WB,WB,0.65588,TRUE,TRUE,FALSE,FALSE,TRUE
+1506,1507,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.12189,FALSE,FALSE,FALSE,TRUE,TRUE
+1507,605,Minnesota,Iowa,Minnesota,Iowa,WB,WB,0.62989,TRUE,TRUE,FALSE,FALSE,TRUE
+1507,606,Minnesota,Louisiana,Minnesota,Louisiana,WB,WB,0.30112,TRUE,TRUE,FALSE,FALSE,TRUE
+1505,1508,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1508,607,Minnesota,South Dakota,Minnesota,South Dakota,WB,WB,0.97095,TRUE,TRUE,FALSE,FALSE,TRUE
+1508,1509,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1509,1510,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1510,1511,Minnesota,California,Minnesota,California,WB,WB,0.22013,TRUE,TRUE,FALSE,FALSE,TRUE
+1511,608,California,Washington,California,Washington,WB,WB,1.08507,TRUE,TRUE,FALSE,FALSE,TRUE
+1511,1512,California,California,California,California,WB,WB,0.19119,FALSE,FALSE,FALSE,TRUE,TRUE
+1512,609,California,Colorado,California,Colorado,WB,WB,0.22813,TRUE,TRUE,FALSE,FALSE,TRUE
+1512,1513,California,California,California,California,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1513,610,California,California,California,California,WB,WB,0.24182,FALSE,FALSE,FALSE,TRUE,TRUE
+1513,611,California,California,California,California,WB,WM,0.65552,FALSE,FALSE,TRUE,TRUE,FALSE
+1510,1514,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1514,612,Minnesota,South Dakota,Minnesota,South Dakota,WB,DB,0.58739,TRUE,TRUE,TRUE,FALSE,FALSE
+1514,1515,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.13253,FALSE,FALSE,FALSE,TRUE,TRUE
+1515,613,Minnesota,Oregon,Minnesota,Oregon,WB,WB,0.38363,TRUE,TRUE,FALSE,FALSE,TRUE
+1515,1516,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1516,614,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.30691,FALSE,FALSE,FALSE,TRUE,TRUE
+1516,1517,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1517,615,Minnesota,Texas,Minnesota,Texas,WB,WB,0.29322,TRUE,TRUE,FALSE,FALSE,TRUE
+1517,1518,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.1195,FALSE,FALSE,FALSE,TRUE,TRUE
+1518,616,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.32166,FALSE,FALSE,FALSE,TRUE,TRUE
+1518,1519,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1519,1520,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1520,617,Minnesota,Colorado,Minnesota,Colorado,WB,WB,0.41207,TRUE,TRUE,FALSE,FALSE,TRUE
+1520,618,Minnesota,California,Minnesota,California,WB,WB,0.4696,TRUE,TRUE,FALSE,FALSE,TRUE
+1519,1521,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1521,619,Minnesota,Missouri,Minnesota,Missouri,WB,WB,0.37919,TRUE,TRUE,FALSE,FALSE,TRUE
+1521,620,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.25316,FALSE,FALSE,TRUE,TRUE,FALSE
+1509,1522,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1522,1523,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1523,1524,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.14236,FALSE,FALSE,FALSE,TRUE,TRUE
+1524,621,Minnesota,Utah,Minnesota,Utah,WB,WB,0.2916,TRUE,TRUE,FALSE,FALSE,TRUE
+1524,622,Minnesota,Oregon,Minnesota,Oregon,WB,WB,0.56558,TRUE,TRUE,FALSE,FALSE,TRUE
+1523,1525,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.21558,FALSE,FALSE,FALSE,TRUE,TRUE
+1525,1526,Minnesota,Peru,Minnesota,Peru,WB,WB,0.1532,TRUE,TRUE,FALSE,FALSE,TRUE
+1526,623,Peru,Antofagasta,Peru,Antofagasta,WB,WB,0.28162,TRUE,TRUE,FALSE,FALSE,TRUE
+1526,1527,Peru,Peru,Peru,Peru,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1527,1528,Peru,Peru,Peru,Peru,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1528,624,Peru,Ohiggins,Peru,Ohiggins,WB,WB,0.44326,TRUE,TRUE,FALSE,FALSE,TRUE
+1528,625,Peru,Coquimbo,Peru,Coquimbo,WB,WB,0.36381,TRUE,TRUE,FALSE,FALSE,TRUE
+1527,1529,Peru,Peru,Peru,Peru,WB,WB,0.24326,FALSE,FALSE,FALSE,TRUE,TRUE
+1529,626,Peru,Peru,Peru,Peru,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1529,1530,Peru,Peru,Peru,Peru,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1530,627,Peru,Valparaiso,Peru,Valparaiso,WB,WB,0.19178,TRUE,TRUE,FALSE,FALSE,TRUE
+1530,1531,Peru,Uruguay,Peru,Uruguay,WB,WM,0.67978,TRUE,TRUE,TRUE,FALSE,FALSE
+1531,628,Uruguay,Uruguay,Uruguay,Uruguay,WM,WM,0.09009,FALSE,FALSE,FALSE,TRUE,TRUE
+1531,629,Uruguay,Uruguay,Uruguay,Uruguay,WM,WM,0.10652,FALSE,FALSE,FALSE,TRUE,TRUE
+1525,1532,Minnesota,Uruguay,Minnesota,Uruguay,WB,DB,0.3275,TRUE,TRUE,TRUE,FALSE,FALSE
+1532,630,Uruguay,Argentina,Uruguay,Argentina,DB,DB,2.30459,TRUE,TRUE,FALSE,FALSE,TRUE
+1532,1533,Uruguay,Uruguay,Uruguay,Uruguay,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1533,631,Uruguay,Maule,Uruguay,Maule,DB,WB,0.32924,TRUE,TRUE,TRUE,FALSE,FALSE
+1533,1534,Uruguay,Uruguay,Uruguay,Uruguay,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1534,1535,Uruguay,Uruguay,Uruguay,Uruguay,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1535,632,Uruguay,Cochabamba,Uruguay,Cochabamba,DB,DB,0.22239,TRUE,TRUE,FALSE,FALSE,TRUE
+1535,633,Uruguay,Ohiggins,Uruguay,Ohiggins,DB,DB,0.35664,TRUE,TRUE,FALSE,FALSE,TRUE
+1534,1536,Uruguay,Uruguay,Uruguay,Uruguay,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1536,634,Uruguay,Uruguay,Uruguay,Uruguay,DB,DB,0.32102,FALSE,FALSE,FALSE,TRUE,TRUE
+1536,1537,Uruguay,Uruguay,Uruguay,Uruguay,DB,WB,0.11485,FALSE,FALSE,TRUE,TRUE,FALSE
+1537,635,Uruguay,Rio De Janeiro,Uruguay,Rio De Janeiro,WB,WB,1.14561,TRUE,TRUE,FALSE,FALSE,TRUE
+1537,1538,Uruguay,Uruguay,Uruguay,Uruguay,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1538,636,Uruguay,Uruguay,Uruguay,Uruguay,WB,WM,0.37878,FALSE,FALSE,TRUE,TRUE,FALSE
+1538,1539,Uruguay,South Georgia And The South Sandwich Islands,Uruguay,South Georgia And The South Sandwich Islands,WB,WB,0.58754,TRUE,TRUE,FALSE,FALSE,TRUE
+1539,1540,South Georgia And The South Sandwich Islands,Crozet,South Georgia And The South Sandwich Islands,Crozet,WB,WB,0.62289,TRUE,TRUE,FALSE,FALSE,TRUE
+1540,637,Crozet,Crozet,Crozet,Crozet,WB,WB,0.68109,FALSE,FALSE,FALSE,TRUE,TRUE
+1540,638,Crozet,Kerguelen,Crozet,Kerguelen,WB,WB,0.74666,TRUE,TRUE,FALSE,FALSE,TRUE
+1539,1541,South Georgia And The South Sandwich Islands,South Georgia And The South Sandwich Islands,South Georgia And The South Sandwich Islands,South Georgia And The South Sandwich Islands,WB,WB,0.09389,FALSE,FALSE,FALSE,TRUE,TRUE
+1541,639,South Georgia And The South Sandwich Islands,South Georgia And The South Sandwich Islands,South Georgia And The South Sandwich Islands,South Georgia And The South Sandwich Islands,WB,WM,0.29461,FALSE,FALSE,TRUE,TRUE,FALSE
+1541,1542,South Georgia And The South Sandwich Islands,Hope Bay,South Georgia And The South Sandwich Islands,Hope Bay,WB,WB,0.42736,TRUE,TRUE,FALSE,FALSE,TRUE
+1542,640,Hope Bay,Hope Bay,Hope Bay,Hope Bay,WB,WB,0.14064,FALSE,FALSE,FALSE,TRUE,TRUE
+1542,641,Hope Bay,Beak Island,Hope Bay,Beak Island,WB,WB,0.14884,TRUE,TRUE,FALSE,FALSE,TRUE
+1522,1543,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1543,642,Minnesota,North Dakota,Minnesota,North Dakota,WB,WB,0.43671,TRUE,TRUE,FALSE,FALSE,TRUE
+1543,1544,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1544,1545,Minnesota,California,Minnesota,California,WB,WB,0.28977,TRUE,TRUE,FALSE,FALSE,TRUE
+1545,643,California,Costa Rica,California,Costa Rica,WB,WB,0.5168,TRUE,TRUE,FALSE,FALSE,TRUE
+1545,644,California,California,California,California,WB,WB,0.22639,FALSE,FALSE,FALSE,TRUE,TRUE
+1544,1546,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.34794,FALSE,FALSE,FALSE,TRUE,TRUE
+1546,645,Minnesota,Iowa,Minnesota,Iowa,WB,DB,0.54356,TRUE,TRUE,TRUE,FALSE,FALSE
+1546,1547,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1547,646,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.34904,FALSE,FALSE,FALSE,TRUE,TRUE
+1547,1548,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.32402,FALSE,FALSE,FALSE,TRUE,TRUE
+1548,647,Minnesota,Florida,Minnesota,Florida,WB,WB,0.962,TRUE,TRUE,FALSE,FALSE,TRUE
+1548,1549,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1549,1550,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1550,1551,Minnesota,South Dakota,Minnesota,South Dakota,WB,WB,0.2911,TRUE,TRUE,FALSE,FALSE,TRUE
+1551,1552,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,0.01585,FALSE,FALSE,FALSE,TRUE,TRUE
+1552,1553,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1553,648,South Dakota,Virginia,South Dakota,Virginia,WB,WB,0.90386,TRUE,TRUE,FALSE,FALSE,TRUE
+1553,649,South Dakota,Kansas,South Dakota,Kansas,WB,WB,0.55916,TRUE,TRUE,FALSE,FALSE,TRUE
+1552,1554,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,0.23375,FALSE,FALSE,FALSE,TRUE,TRUE
+1554,650,South Dakota,South Dakota,South Dakota,South Dakota,WB,DB,0.36651,FALSE,FALSE,TRUE,TRUE,FALSE
+1554,1555,South Dakota,Iowa,South Dakota,Iowa,WB,WB,0.28706,TRUE,TRUE,FALSE,FALSE,TRUE
+1555,651,Iowa,Iowa,Iowa,Iowa,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1555,652,Iowa,Minnesota,Iowa,Minnesota,WB,DB,0.37759,TRUE,TRUE,TRUE,FALSE,FALSE
+1551,1556,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1556,653,South Dakota,North Dakota,South Dakota,North Dakota,WB,WB,0.58323,TRUE,TRUE,FALSE,FALSE,TRUE
+1556,1557,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,0.17823,FALSE,FALSE,FALSE,TRUE,TRUE
+1557,654,South Dakota,South Dakota,South Dakota,South Dakota,WB,DB,0.46802,FALSE,FALSE,TRUE,TRUE,FALSE
+1557,1558,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1558,1559,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1559,655,South Dakota,South Dakota,South Dakota,South Dakota,WB,DB,0.47349,FALSE,FALSE,TRUE,TRUE,FALSE
+1559,656,South Dakota,Iowa,South Dakota,Iowa,WB,WB,0.39404,TRUE,TRUE,FALSE,FALSE,TRUE
+1558,1560,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1560,657,South Dakota,Texas,South Dakota,Texas,WB,WB,0.31733,TRUE,TRUE,FALSE,FALSE,TRUE
+1560,1561,South Dakota,South Dakota,South Dakota,South Dakota,WB,WB,0.16335,FALSE,FALSE,FALSE,TRUE,TRUE
+1561,658,South Dakota,Missouri,South Dakota,Missouri,WB,WB,0.53441,TRUE,TRUE,FALSE,FALSE,TRUE
+1561,659,South Dakota,Indiana,South Dakota,Indiana,WB,WB,0.51255,TRUE,TRUE,FALSE,FALSE,TRUE
+1550,1562,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1562,660,Minnesota,North Dakota,Minnesota,North Dakota,WB,WB,0.90995,TRUE,TRUE,FALSE,FALSE,TRUE
+1562,1563,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1563,1564,Minnesota,California,Minnesota,California,WB,WB,0.39053,TRUE,TRUE,FALSE,FALSE,TRUE
+1564,1565,California,California,California,California,WB,WB,0.03737,FALSE,FALSE,FALSE,TRUE,TRUE
+1565,661,California,Washington,California,Washington,WB,WB,0.67089,TRUE,TRUE,FALSE,FALSE,TRUE
+1565,1566,California,California,California,California,WB,DB,0.26816,FALSE,FALSE,TRUE,TRUE,FALSE
+1566,662,California,California,California,California,DB,DB,0.33716,FALSE,FALSE,FALSE,TRUE,TRUE
+1566,663,California,California,California,California,DB,DB,0.37814,FALSE,FALSE,FALSE,TRUE,TRUE
+1564,1567,California,California,California,California,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1567,664,California,California,California,California,WB,WB,0.44819,FALSE,FALSE,FALSE,TRUE,TRUE
+1567,1568,California,California,California,California,WB,DB,0.11073,FALSE,FALSE,TRUE,TRUE,FALSE
+1568,1569,California,California,California,California,DB,DB,0.38062,FALSE,FALSE,FALSE,TRUE,TRUE
+1569,665,California,California,California,California,DB,DB,0.12944,FALSE,FALSE,FALSE,TRUE,TRUE
+1569,1570,California,California,California,California,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1570,666,California,California,California,California,DB,DB,0.1486,FALSE,FALSE,FALSE,TRUE,TRUE
+1570,667,California,California,California,California,DB,DB,0.08561,FALSE,FALSE,FALSE,TRUE,TRUE
+1568,1571,California,California,California,California,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1571,668,California,Florida,California,Florida,DB,DB,1.06201,TRUE,TRUE,FALSE,FALSE,TRUE
+1571,1572,California,Wisconsin,California,Wisconsin,DB,DB,0.35695,TRUE,TRUE,FALSE,FALSE,TRUE
+1572,669,Wisconsin,Wisconsin,Wisconsin,Wisconsin,DB,DB,0.06543,FALSE,FALSE,FALSE,TRUE,TRUE
+1572,670,Wisconsin,Wisconsin,Wisconsin,Wisconsin,DB,DB,0.05174,FALSE,FALSE,FALSE,TRUE,TRUE
+1563,1573,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1573,1574,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1574,671,Minnesota,Arizona,Minnesota,Arizona,WB,WB,0.02501,TRUE,TRUE,FALSE,FALSE,TRUE
+1574,672,Minnesota,Minnesota,Minnesota,Minnesota,WB,DB,0.9209,FALSE,FALSE,TRUE,TRUE,FALSE
+1573,1575,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1575,1576,Minnesota,Michigan,Minnesota,Michigan,WB,WB,0.72159,TRUE,TRUE,FALSE,FALSE,TRUE
+1576,673,Michigan,Florida,Michigan,Florida,WB,WB,0.20206,TRUE,TRUE,FALSE,FALSE,TRUE
+1576,674,Michigan,Michigan,Michigan,Michigan,WB,WB,0.13356,FALSE,FALSE,FALSE,TRUE,TRUE
+1575,1577,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.52721,FALSE,FALSE,FALSE,TRUE,TRUE
+1577,1578,Minnesota,Missouri,Minnesota,Missouri,WB,DB,0.52888,TRUE,TRUE,TRUE,FALSE,FALSE
+1578,675,Missouri,Missouri,Missouri,Missouri,DB,DB,0.07001,FALSE,FALSE,FALSE,TRUE,TRUE
+1578,676,Missouri,Missouri,Missouri,Missouri,DB,DB,0.07001,FALSE,FALSE,FALSE,TRUE,TRUE
+1577,1579,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1579,1580,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1580,677,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.22383,FALSE,FALSE,FALSE,TRUE,TRUE
+1580,1581,Minnesota,California,Minnesota,California,WB,DB,0.32,TRUE,TRUE,TRUE,FALSE,FALSE
+1581,678,California,California,California,California,DB,DB,0.16136,FALSE,FALSE,FALSE,TRUE,TRUE
+1581,1582,California,California,California,California,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1582,679,California,California,California,California,DB,DB,0.16958,FALSE,FALSE,FALSE,TRUE,TRUE
+1582,680,California,California,California,California,DB,WB,0.13123,FALSE,FALSE,TRUE,TRUE,FALSE
+1579,1583,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1583,681,Minnesota,Bc,Minnesota,Bc,WB,WB,0.38274,TRUE,TRUE,FALSE,FALSE,TRUE
+1583,1584,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1584,1585,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1585,682,Minnesota,North Dakota,Minnesota,North Dakota,WB,WB,0.28685,TRUE,TRUE,FALSE,FALSE,TRUE
+1585,1586,Minnesota,Oregon,Minnesota,Oregon,WB,DB,0.30446,TRUE,TRUE,TRUE,FALSE,FALSE
+1586,683,Oregon,Oregon,Oregon,Oregon,DB,DB,0.0591,FALSE,FALSE,FALSE,TRUE,TRUE
+1586,1587,Oregon,Oregon,Oregon,Oregon,DB,DB,0.03992,FALSE,FALSE,FALSE,TRUE,TRUE
+1587,684,Oregon,Oregon,Oregon,Oregon,DB,WB,0.00274,FALSE,FALSE,TRUE,TRUE,FALSE
+1587,685,Oregon,Oregon,Oregon,Oregon,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1584,1588,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1588,686,Minnesota,Washington,Minnesota,Washington,WB,WB,0.41287,TRUE,TRUE,FALSE,FALSE,TRUE
+1588,1589,Minnesota,Utah,Minnesota,Utah,WB,DB,0.1905,TRUE,TRUE,TRUE,FALSE,FALSE
+1589,687,Utah,Colorado,Utah,Colorado,DB,DB,0.08264,TRUE,TRUE,FALSE,FALSE,TRUE
+1589,1590,Utah,Utah,Utah,Utah,DB,DB,0.0662,FALSE,FALSE,FALSE,TRUE,TRUE
+1590,688,Utah,Utah,Utah,Utah,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1590,689,Utah,North Dakota,Utah,North Dakota,DB,WB,0.07671,TRUE,TRUE,TRUE,FALSE,FALSE
+1549,1591,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.21286,FALSE,FALSE,FALSE,TRUE,TRUE
+1591,690,Minnesota,Oregon,Minnesota,Oregon,WB,WB,0.57106,TRUE,TRUE,FALSE,FALSE,TRUE
+1591,1592,Minnesota,Minnesota,Minnesota,Minnesota,WB,WB,0.12452,FALSE,FALSE,FALSE,TRUE,TRUE
+1592,691,Minnesota,Kansas,Minnesota,Kansas,WB,DB,0.6438,TRUE,TRUE,TRUE,FALSE,FALSE
+1592,1593,Minnesota,Maryland,Minnesota,Maryland,WB,WB,0.18494,TRUE,TRUE,FALSE,FALSE,TRUE
+1593,692,Maryland,Maryland,Maryland,Maryland,WB,WB,0.35749,FALSE,FALSE,FALSE,TRUE,TRUE
+1593,1594,Maryland,Usa,Maryland,Usa,WB,DM,0.27742,TRUE,TRUE,TRUE,FALSE,FALSE
+1594,1595,Usa,New Mexico,Usa,New Mexico,DM,DB,0.4965,TRUE,TRUE,TRUE,FALSE,FALSE
+1595,693,New Mexico,Colorado,New Mexico,Colorado,DB,DM,0.19053,TRUE,TRUE,TRUE,FALSE,FALSE
+1595,1596,New Mexico,New Mexico,New Mexico,New Mexico,DB,DB,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1596,694,New Mexico,Colorado,New Mexico,Colorado,DB,DM,0.22951,TRUE,TRUE,TRUE,FALSE,FALSE
+1596,695,New Mexico,New Mexico,New Mexico,New Mexico,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1594,1597,Usa,Usa,Usa,Usa,DM,DM,0.09057,FALSE,FALSE,FALSE,TRUE,TRUE
+1597,1598,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1598,696,Usa,Texas,Usa,Texas,DM,DM,0.35055,TRUE,TRUE,FALSE,FALSE,TRUE
+1598,1599,Usa,Usa,Usa,Usa,DM,DM,0.12782,FALSE,FALSE,FALSE,TRUE,TRUE
+1599,697,Usa,Colorado,Usa,Colorado,DM,DM,0.31837,TRUE,TRUE,FALSE,FALSE,TRUE
+1599,1600,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1600,698,Usa,Colorado,Usa,Colorado,DM,DM,0.55133,TRUE,TRUE,FALSE,FALSE,TRUE
+1600,1601,Usa,Usa,Usa,Usa,DM,DM,0.00288,FALSE,FALSE,FALSE,TRUE,TRUE
+1601,1602,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1602,699,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1602,1603,Usa,Colorado,Usa,Colorado,DM,DM,0.13695,TRUE,TRUE,FALSE,FALSE,TRUE
+1603,1604,Colorado,Colorado,Colorado,Colorado,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1604,700,Colorado,Colorado,Colorado,Colorado,DM,DM,0.32206,FALSE,FALSE,FALSE,TRUE,TRUE
+1604,1605,Colorado,Colorado,Colorado,Colorado,DM,DM,0.30567,FALSE,FALSE,FALSE,TRUE,TRUE
+1605,701,Colorado,Colorado,Colorado,Colorado,DM,DM,0.08197,FALSE,FALSE,FALSE,TRUE,TRUE
+1605,702,Colorado,Colorado,Colorado,Colorado,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1603,1606,Colorado,Colorado,Colorado,Colorado,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1606,1607,Colorado,Colorado,Colorado,Colorado,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1607,703,Colorado,Colorado,Colorado,Colorado,DM,DM,0.33026,FALSE,FALSE,FALSE,TRUE,TRUE
+1607,704,Colorado,Colorado,Colorado,Colorado,DM,H,0.40949,FALSE,FALSE,TRUE,TRUE,FALSE
+1606,1608,Colorado,South Dakota,Colorado,South Dakota,DM,DM,0.24629,TRUE,TRUE,FALSE,FALSE,TRUE
+1608,705,South Dakota,Minnesota,South Dakota,Minnesota,DM,DM,0.04025,TRUE,TRUE,FALSE,FALSE,TRUE
+1608,1609,South Dakota,South Dakota,South Dakota,South Dakota,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1609,706,South Dakota,South Dakota,South Dakota,South Dakota,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1609,707,South Dakota,Minnesota,South Dakota,Minnesota,DM,DM,0.03825,TRUE,TRUE,FALSE,FALSE,TRUE
+1601,1610,Usa,Colorado,Usa,Colorado,DM,DM,0.31512,TRUE,TRUE,FALSE,FALSE,TRUE
+1610,708,Colorado,Colorado,Colorado,Colorado,DM,DM,0.12951,FALSE,FALSE,FALSE,TRUE,TRUE
+1610,1611,Colorado,Colorado,Colorado,Colorado,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1611,709,Colorado,Colorado,Colorado,Colorado,DM,DM,0.20401,FALSE,FALSE,FALSE,TRUE,TRUE
+1611,1612,Colorado,Wyoming,Colorado,Wyoming,DM,DM,0.002,TRUE,TRUE,FALSE,FALSE,TRUE
+1612,710,Wyoming,Wyoming,Wyoming,Wyoming,DM,DM,0.00802,FALSE,FALSE,FALSE,TRUE,TRUE
+1612,1613,Wyoming,Wyoming,Wyoming,Wyoming,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1613,711,Wyoming,Colorado,Wyoming,Colorado,DM,DB,0.20546,TRUE,TRUE,TRUE,FALSE,FALSE
+1613,1614,Wyoming,Wyoming,Wyoming,Wyoming,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1614,712,Wyoming,Wyoming,Wyoming,Wyoming,DM,DM,0.00401,FALSE,FALSE,FALSE,TRUE,TRUE
+1614,1615,Wyoming,Wyoming,Wyoming,Wyoming,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1615,713,Wyoming,South Dakota,Wyoming,South Dakota,DM,DM,0.06484,TRUE,TRUE,FALSE,FALSE,TRUE
+1615,1616,Wyoming,Wyoming,Wyoming,Wyoming,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1616,714,Wyoming,Wyoming,Wyoming,Wyoming,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1616,1617,Wyoming,Colorado,Wyoming,Colorado,DM,DM,0.12368,TRUE,TRUE,FALSE,FALSE,TRUE
+1617,715,Colorado,Colorado,Colorado,Colorado,DM,DB,0.08124,FALSE,FALSE,TRUE,TRUE,FALSE
+1617,1618,Colorado,Colorado,Colorado,Colorado,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1618,716,Colorado,Colorado,Colorado,Colorado,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1618,717,Colorado,Colorado,Colorado,Colorado,DM,DM,0.09016,FALSE,FALSE,FALSE,TRUE,TRUE
+1597,1619,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1619,1620,Usa,Usa,Usa,Usa,DM,DM,0.0525,FALSE,FALSE,FALSE,TRUE,TRUE
+1620,718,Usa,Iowa,Usa,Iowa,DM,DM,0.54669,TRUE,TRUE,FALSE,FALSE,TRUE
+1620,1621,Usa,Texas,Usa,Texas,DM,DM,0.40445,TRUE,TRUE,FALSE,FALSE,TRUE
+1621,1622,Texas,Texas,Texas,Texas,DM,DM,0.063,FALSE,FALSE,FALSE,TRUE,TRUE
+1622,719,Texas,Texas,Texas,Texas,DM,DM,0.17213,FALSE,FALSE,FALSE,TRUE,TRUE
+1622,720,Texas,Texas,Texas,Texas,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1621,1623,Texas,Texas,Texas,Texas,DM,DM,0.60271,FALSE,FALSE,FALSE,TRUE,TRUE
+1623,721,Texas,Texas,Texas,Texas,DM,DM,0.00401,FALSE,FALSE,FALSE,TRUE,TRUE
+1623,1624,Texas,Texas,Texas,Texas,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1624,722,Texas,Texas,Texas,Texas,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1624,1625,Texas,Texas,Texas,Texas,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1625,723,Texas,Texas,Texas,Texas,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1625,724,Texas,Texas,Texas,Texas,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1619,1626,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1626,725,Usa,Idaho,Usa,Idaho,DM,DM,0.53634,TRUE,TRUE,FALSE,FALSE,TRUE
+1626,1627,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1627,1628,Usa,Texas,Usa,Texas,DM,DM,0.07407,TRUE,TRUE,FALSE,FALSE,TRUE
+1628,726,Texas,Michigan,Texas,Michigan,DM,DM,0.31473,TRUE,TRUE,FALSE,FALSE,TRUE
+1628,1629,Texas,Texas,Texas,Texas,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1629,727,Texas,Texas,Texas,Texas,DM,DM,0.27648,FALSE,FALSE,FALSE,TRUE,TRUE
+1629,728,Texas,Texas,Texas,Texas,DM,DM,0.29014,FALSE,FALSE,FALSE,TRUE,TRUE
+1627,1630,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1630,1631,Usa,Ohio,Usa,Ohio,DM,DM,0.26935,TRUE,TRUE,FALSE,FALSE,TRUE
+1631,729,Ohio,Michigan,Ohio,Michigan,DM,DM,0.17409,TRUE,TRUE,FALSE,FALSE,TRUE
+1631,1632,Ohio,Ohio,Ohio,Ohio,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1632,730,Ohio,Ohio,Ohio,Ohio,DM,DM,0.10579,FALSE,FALSE,FALSE,TRUE,TRUE
+1632,731,Ohio,Idaho,Ohio,Idaho,DM,DM,0.24787,TRUE,TRUE,FALSE,FALSE,TRUE
+1630,1633,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1633,1634,Usa,Usa,Usa,Usa,DM,DM,0.10665,FALSE,FALSE,FALSE,TRUE,TRUE
+1634,732,Usa,Michigan,Usa,Michigan,DM,DM,0.24663,TRUE,TRUE,FALSE,FALSE,TRUE
+1634,1635,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1635,733,Usa,Texas,Usa,Texas,DM,DM,0.24189,TRUE,TRUE,FALSE,FALSE,TRUE
+1635,1636,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1636,734,Usa,Texas,Usa,Texas,DM,DM,0.2235,TRUE,TRUE,FALSE,FALSE,TRUE
+1636,1637,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1637,735,Usa,Ohio,Usa,Ohio,DM,DM,0.26248,TRUE,TRUE,FALSE,FALSE,TRUE
+1637,1638,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1638,736,Usa,Usa,Usa,Usa,DM,DM,0.02004,FALSE,FALSE,FALSE,TRUE,TRUE
+1638,1639,Usa,Idaho,Usa,Idaho,DM,DM,0.002,TRUE,TRUE,FALSE,FALSE,TRUE
+1639,737,Idaho,Ohio,Idaho,Ohio,DM,DM,0.2776,TRUE,TRUE,FALSE,FALSE,TRUE
+1639,1640,Idaho,Idaho,Idaho,Idaho,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1640,738,Idaho,Idaho,Idaho,Idaho,DM,DM,0.65264,FALSE,FALSE,FALSE,TRUE,TRUE
+1640,1641,Idaho,Idaho,Idaho,Idaho,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1641,739,Idaho,Texas,Idaho,Texas,DM,DM,0.2326,TRUE,TRUE,FALSE,FALSE,TRUE
+1641,1642,Idaho,Idaho,Idaho,Idaho,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1642,740,Idaho,Idaho,Idaho,Idaho,DM,DM,0.34262,FALSE,FALSE,FALSE,TRUE,TRUE
+1642,1643,Idaho,Idaho,Idaho,Idaho,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1643,741,Idaho,Idaho,Idaho,Idaho,DM,DM,0.2969,FALSE,FALSE,FALSE,TRUE,TRUE
+1643,1644,Idaho,Idaho,Idaho,Idaho,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1644,742,Idaho,Idaho,Idaho,Idaho,DM,DM,0.41785,FALSE,FALSE,FALSE,TRUE,TRUE
+1644,1645,Idaho,Idaho,Idaho,Idaho,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1645,743,Idaho,Ohio,Idaho,Ohio,DM,DM,0.24645,TRUE,TRUE,FALSE,FALSE,TRUE
+1645,1646,Idaho,Idaho,Idaho,Idaho,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1646,744,Idaho,Texas,Idaho,Texas,DM,DM,0.23352,TRUE,TRUE,FALSE,FALSE,TRUE
+1646,1647,Idaho,Idaho,Idaho,Idaho,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1647,745,Idaho,Idaho,Idaho,Idaho,DM,DM,0.28889,FALSE,FALSE,FALSE,TRUE,TRUE
+1647,1648,Idaho,Usa,Idaho,Usa,DM,DM,0.002,TRUE,TRUE,FALSE,FALSE,TRUE
+1648,746,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1648,1649,Usa,Texas,Usa,Texas,DM,DM,0.21111,TRUE,TRUE,FALSE,FALSE,TRUE
+1649,747,Texas,Michigan,Texas,Michigan,DM,DM,0.17413,TRUE,TRUE,FALSE,FALSE,TRUE
+1649,1650,Texas,Texas,Texas,Texas,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1650,748,Texas,Montana,Texas,Montana,DM,WM,0.53552,TRUE,TRUE,TRUE,FALSE,FALSE
+1650,749,Texas,Texas,Texas,Texas,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1633,1651,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1651,750,Usa,Iowa,Usa,Iowa,DM,DM,0.58826,TRUE,TRUE,FALSE,FALSE,TRUE
+1651,1652,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1652,1653,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1653,1654,Usa,Usa,Usa,Usa,DM,DM,0.13471,FALSE,FALSE,FALSE,TRUE,TRUE
+1654,751,Usa,Idaho,Usa,Idaho,DM,DM,0.98361,TRUE,TRUE,FALSE,FALSE,TRUE
+1654,752,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1653,1655,Usa,Minnesota,Usa,Minnesota,DM,DM,0.38619,TRUE,TRUE,FALSE,FALSE,TRUE
+1655,753,Minnesota,Minnesota,Minnesota,Minnesota,DM,DM,0.23212,FALSE,FALSE,FALSE,TRUE,TRUE
+1655,1656,Minnesota,Minnesota,Minnesota,Minnesota,DM,DM,0.00407,FALSE,FALSE,FALSE,TRUE,TRUE
+1656,1657,Minnesota,Minnesota,Minnesota,Minnesota,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1657,754,Minnesota,Minnesota,Minnesota,Minnesota,DM,DM,0.16594,FALSE,FALSE,FALSE,TRUE,TRUE
+1657,1658,Minnesota,South Dakota,Minnesota,South Dakota,DM,DM,0.002,TRUE,TRUE,FALSE,FALSE,TRUE
+1658,755,South Dakota,South Dakota,South Dakota,South Dakota,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1658,756,South Dakota,Minnesota,South Dakota,Minnesota,DM,DM,0.1612,TRUE,TRUE,FALSE,FALSE,TRUE
+1656,1659,Minnesota,Minnesota,Minnesota,Minnesota,DM,DM,0.14019,FALSE,FALSE,FALSE,TRUE,TRUE
+1659,1660,Minnesota,Minnesota,Minnesota,Minnesota,DM,DB,0.04688,FALSE,FALSE,TRUE,TRUE,FALSE
+1660,757,Minnesota,Colorado,Minnesota,Colorado,DB,WM,0.52186,TRUE,TRUE,TRUE,FALSE,FALSE
+1660,758,Minnesota,Minnesota,Minnesota,Minnesota,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1659,1661,Minnesota,Minnesota,Minnesota,Minnesota,DM,DM,0.14251,FALSE,FALSE,FALSE,TRUE,TRUE
+1661,759,Minnesota,Minnesota,Minnesota,Minnesota,DM,DM,0.7138,FALSE,FALSE,FALSE,TRUE,TRUE
+1661,760,Minnesota,Minnesota,Minnesota,Minnesota,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1652,1662,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1662,1663,Usa,Usa,Usa,Usa,DM,DM,0.13471,FALSE,FALSE,FALSE,TRUE,TRUE
+1663,761,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1663,762,Usa,Idaho,Usa,Idaho,DM,DM,0.39344,TRUE,TRUE,FALSE,FALSE,TRUE
+1662,1664,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1664,763,Usa,Idaho,Usa,Idaho,DM,DM,0.46531,TRUE,TRUE,FALSE,FALSE,TRUE
+1664,1665,Usa,Usa,Usa,Usa,DM,DM,0.06415,FALSE,FALSE,FALSE,TRUE,TRUE
+1665,764,Usa,Usa,Usa,Usa,DM,DM,1.07056,FALSE,FALSE,FALSE,TRUE,TRUE
+1665,1666,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1666,1667,Usa,Usa,Usa,Usa,DM,DM,0.0421,FALSE,FALSE,FALSE,TRUE,TRUE
+1667,765,Usa,California,Usa,California,DM,DM,0.85359,TRUE,TRUE,FALSE,FALSE,TRUE
+1667,1668,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1668,766,Usa,Usa,Usa,Usa,DM,DM,0.02846,FALSE,FALSE,FALSE,TRUE,TRUE
+1668,1669,Usa,Usa,Usa,Usa,DM,DM,0.01268,FALSE,FALSE,FALSE,TRUE,TRUE
+1669,767,Usa,Usa,Usa,Usa,DM,DM,0.01578,FALSE,FALSE,FALSE,TRUE,TRUE
+1669,1670,Usa,Usa,Usa,Usa,DM,DM,0.00288,FALSE,FALSE,FALSE,TRUE,TRUE
+1670,1671,Usa,Usa,Usa,Usa,DM,DM,0.0129,FALSE,FALSE,FALSE,TRUE,TRUE
+1671,768,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1671,769,Usa,California,Usa,California,DM,DM,0.87978,TRUE,TRUE,FALSE,FALSE,TRUE
+1670,1672,Usa,Usa,Usa,Usa,DM,DM,0.00288,FALSE,FALSE,FALSE,TRUE,TRUE
+1672,1673,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1673,770,Usa,California,Usa,California,DM,DM,0.80036,TRUE,TRUE,FALSE,FALSE,TRUE
+1673,1674,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1674,771,Usa,California,Usa,California,DM,DM,0.81202,TRUE,TRUE,FALSE,FALSE,TRUE
+1674,1675,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1675,772,Usa,California,Usa,California,DM,DB,0.81821,TRUE,TRUE,TRUE,FALSE,FALSE
+1675,1676,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1676,773,Usa,California,Usa,California,DM,DM,0.74791,TRUE,TRUE,FALSE,FALSE,TRUE
+1676,1677,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1677,774,Usa,California,Usa,California,DM,DM,0.78688,TRUE,TRUE,FALSE,FALSE,TRUE
+1677,775,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1672,1678,Usa,California,Usa,California,DM,DM,0.63699,TRUE,TRUE,FALSE,FALSE,TRUE
+1678,776,California,California,California,California,DM,WB,0.18176,FALSE,FALSE,TRUE,TRUE,FALSE
+1678,1679,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1679,1680,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1680,777,California,California,California,California,DM,DM,0.14078,FALSE,FALSE,FALSE,TRUE,TRUE
+1680,778,California,California,California,California,DM,DB,0.15991,FALSE,FALSE,TRUE,TRUE,FALSE
+1679,1681,California,California,California,California,DM,DM,0.01932,FALSE,FALSE,FALSE,TRUE,TRUE
+1681,779,California,California,California,California,DM,DM,0.14059,FALSE,FALSE,FALSE,TRUE,TRUE
+1681,1682,California,Usa,California,Usa,DM,DM,0.20682,TRUE,TRUE,FALSE,FALSE,TRUE
+1682,780,Usa,Usa,Usa,Usa,DM,DM,0.14688,FALSE,FALSE,FALSE,TRUE,TRUE
+1682,781,Usa,Usa,Usa,Usa,DM,DM,0.14688,FALSE,FALSE,FALSE,TRUE,TRUE
+1666,1683,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1683,782,Usa,California,Usa,California,DM,DM,1.00772,TRUE,TRUE,FALSE,FALSE,TRUE
+1683,1684,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1684,1685,Usa,Usa,Usa,Usa,DM,DM,0.0034,FALSE,FALSE,FALSE,TRUE,TRUE
+1685,783,Usa,California,Usa,California,DM,DM,0.87043,TRUE,TRUE,FALSE,FALSE,TRUE
+1685,1686,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1686,1687,Usa,Usa,Usa,Usa,DM,DM,0.06026,FALSE,FALSE,FALSE,TRUE,TRUE
+1687,784,Usa,California,Usa,California,DM,DM,0.67902,TRUE,TRUE,FALSE,FALSE,TRUE
+1687,1688,Usa,Usa,Usa,Usa,DM,DM,0.00288,FALSE,FALSE,FALSE,TRUE,TRUE
+1688,1689,Usa,California,Usa,California,DM,DM,0.31391,TRUE,TRUE,FALSE,FALSE,TRUE
+1689,785,California,California,California,California,DM,DM,0.41415,FALSE,FALSE,FALSE,TRUE,TRUE
+1689,1690,California,California,California,California,DM,DM,0.447,FALSE,FALSE,FALSE,TRUE,TRUE
+1690,786,California,California,California,California,DM,DM,0.18026,FALSE,FALSE,FALSE,TRUE,TRUE
+1690,1691,California,California,California,California,DM,DM,0.18299,FALSE,FALSE,FALSE,TRUE,TRUE
+1691,787,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1691,788,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1688,1692,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1692,789,Usa,California,Usa,California,DM,DM,0.71512,TRUE,TRUE,FALSE,FALSE,TRUE
+1692,1693,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1693,790,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1693,1694,Usa,California,Usa,California,DM,DM,0.80328,TRUE,TRUE,FALSE,FALSE,TRUE
+1694,791,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1694,792,California,California,California,California,DM,DM,0.02186,FALSE,FALSE,FALSE,TRUE,TRUE
+1686,1695,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1695,1696,Usa,Usa,Usa,Usa,DM,DM,0.04913,FALSE,FALSE,FALSE,TRUE,TRUE
+1696,793,Usa,California,Usa,California,DM,DM,0.68469,TRUE,TRUE,FALSE,FALSE,TRUE
+1696,1697,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1697,794,Usa,Usa,Usa,Usa,DM,DM,1.01602,FALSE,FALSE,FALSE,TRUE,TRUE
+1697,1698,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1698,795,Usa,Usa,Usa,Usa,DM,DM,1.01402,FALSE,FALSE,FALSE,TRUE,TRUE
+1698,1699,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1699,796,Usa,California,Usa,California,DM,DM,0.8153,TRUE,TRUE,FALSE,FALSE,TRUE
+1699,1700,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1700,797,Usa,Usa,Usa,Usa,DM,DM,1.01002,FALSE,FALSE,FALSE,TRUE,TRUE
+1700,1701,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1701,798,Usa,California,Usa,California,DM,DM,0.81129,TRUE,TRUE,FALSE,FALSE,TRUE
+1701,1702,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1702,799,Usa,Usa,Usa,Usa,DM,DM,1.00601,FALSE,FALSE,FALSE,TRUE,TRUE
+1702,1703,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1703,800,Usa,California,Usa,California,DM,DM,0.67067,TRUE,TRUE,FALSE,FALSE,TRUE
+1703,1704,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1704,801,Usa,California,Usa,California,DM,DM,0.73698,TRUE,TRUE,FALSE,FALSE,TRUE
+1704,1705,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1705,802,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1705,803,Usa,California,Usa,California,DM,DM,0.82514,TRUE,TRUE,FALSE,FALSE,TRUE
+1695,1706,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1706,804,Usa,Oregon,Usa,Oregon,DM,DM,1.18222,TRUE,TRUE,FALSE,FALSE,TRUE
+1706,1707,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1707,805,Usa,California,Usa,California,DM,DM,0.97153,TRUE,TRUE,FALSE,FALSE,TRUE
+1707,1708,Usa,Usa,Usa,Usa,DM,DM,0.00168,FALSE,FALSE,FALSE,TRUE,TRUE
+1708,806,Usa,Usa,Usa,Usa,DM,DM,0.06547,FALSE,FALSE,FALSE,TRUE,TRUE
+1708,1709,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1709,807,Usa,Usa,Usa,Usa,DM,DM,0.06547,FALSE,FALSE,FALSE,TRUE,TRUE
+1709,1710,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1710,808,Usa,California,Usa,California,DM,DM,1.06274,TRUE,TRUE,FALSE,FALSE,TRUE
+1710,1711,Usa,Usa,Usa,Usa,DM,DM,0.01993,FALSE,FALSE,FALSE,TRUE,TRUE
+1711,809,Usa,Usa,Usa,Usa,DM,DB,0.04554,FALSE,FALSE,TRUE,TRUE,FALSE
+1711,1712,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1712,1713,Usa,California,Usa,California,DM,DM,0.79964,TRUE,TRUE,FALSE,FALSE,TRUE
+1713,810,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1713,1714,California,California,California,California,DM,DM,0.07377,FALSE,FALSE,FALSE,TRUE,TRUE
+1714,811,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1714,812,California,California,California,California,DM,DM,0.1694,FALSE,FALSE,FALSE,TRUE,TRUE
+1712,1715,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1715,1716,Usa,Usa,Usa,Usa,DM,DM,0.03464,FALSE,FALSE,FALSE,TRUE,TRUE
+1716,1717,Usa,Usa,Usa,Usa,DM,DM,0.85151,FALSE,FALSE,FALSE,TRUE,TRUE
+1717,813,Usa,Usa,Usa,Usa,DM,DM,0.15938,FALSE,FALSE,FALSE,TRUE,TRUE
+1717,1718,Usa,Usa,Usa,Usa,DM,DM,0.15938,FALSE,FALSE,FALSE,TRUE,TRUE
+1718,814,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1718,815,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1716,1719,Usa,Usa,Usa,Usa,DM,DM,0.00288,FALSE,FALSE,FALSE,TRUE,TRUE
+1719,1720,Usa,California,Usa,California,DM,DM,0.98342,TRUE,TRUE,FALSE,FALSE,TRUE
+1720,816,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1720,1721,California,California,California,California,DM,DM,0.3287,FALSE,FALSE,FALSE,TRUE,TRUE
+1721,817,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1721,818,California,California,California,California,DM,DM,0.01918,FALSE,FALSE,FALSE,TRUE,TRUE
+1719,1722,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1722,819,Usa,California,Usa,California,DM,DB,0.82022,TRUE,TRUE,TRUE,FALSE,FALSE
+1722,1723,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1723,820,Usa,Usa,Usa,Usa,DM,DM,0.00401,FALSE,FALSE,FALSE,TRUE,TRUE
+1723,1724,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1724,821,Usa,California,Usa,California,DM,DB,0.82168,TRUE,TRUE,TRUE,FALSE,FALSE
+1724,1725,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1725,822,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1725,823,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1715,1726,Usa,Usa,Usa,Usa,DM,DM,0.98944,FALSE,FALSE,FALSE,TRUE,TRUE
+1726,1727,Usa,Usa,Usa,Usa,DM,DM,0.0541,FALSE,FALSE,FALSE,TRUE,TRUE
+1727,1728,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1728,824,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1728,825,Usa,Idaho,Usa,Idaho,DM,DM,0.3589,TRUE,TRUE,FALSE,FALSE,TRUE
+1727,1729,Usa,Idaho,Usa,Idaho,DM,DM,0.30611,TRUE,TRUE,FALSE,FALSE,TRUE
+1729,826,Idaho,Idaho,Idaho,Idaho,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1729,827,Idaho,Idaho,Idaho,Idaho,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1726,1730,Usa,Usa,Usa,Usa,DM,DM,0.00889,FALSE,FALSE,FALSE,TRUE,TRUE
+1730,828,Usa,Idaho,Usa,Idaho,DM,DM,0.36776,TRUE,TRUE,FALSE,FALSE,TRUE
+1730,1731,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1731,829,Usa,Idaho,Usa,Idaho,DM,DM,0.34858,TRUE,TRUE,FALSE,FALSE,TRUE
+1731,1732,Usa,Usa,Usa,Usa,DM,DM,0.0392,FALSE,FALSE,FALSE,TRUE,TRUE
+1732,830,Usa,Usa,Usa,Usa,DM,DM,0.00801,FALSE,FALSE,FALSE,TRUE,TRUE
+1732,1733,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1733,831,Usa,Idaho,Usa,Idaho,DM,DM,0.26902,TRUE,TRUE,FALSE,FALSE,TRUE
+1733,1734,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1734,832,Usa,Idaho,Usa,Idaho,DM,DM,0.28894,TRUE,TRUE,FALSE,FALSE,TRUE
+1734,1735,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1735,833,Usa,Idaho,Usa,Idaho,DM,DM,0.402,TRUE,TRUE,FALSE,FALSE,TRUE
+1735,1736,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1736,834,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1736,835,Usa,Idaho,Usa,Idaho,DM,DM,0.30137,TRUE,TRUE,FALSE,FALSE,TRUE
+1684,1737,Usa,Usa,Usa,Usa,DM,DM,0.0219,FALSE,FALSE,FALSE,TRUE,TRUE
+1737,836,Usa,Usa,Usa,Usa,DM,DM,0.04866,FALSE,FALSE,FALSE,TRUE,TRUE
+1737,1738,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1738,837,Usa,California,Usa,California,DM,DM,0.93117,TRUE,TRUE,FALSE,FALSE,TRUE
+1738,1739,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1739,838,Usa,Usa,Usa,Usa,DM,DM,0.04866,FALSE,FALSE,FALSE,TRUE,TRUE
+1739,1740,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1740,839,Usa,California,Usa,California,DM,DB,0.98855,TRUE,TRUE,TRUE,FALSE,FALSE
+1740,1741,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1741,1742,Usa,California,Usa,California,DM,DM,0.40337,TRUE,TRUE,FALSE,FALSE,TRUE
+1742,1743,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1743,1744,California,California,California,California,DM,DM,0.83433,FALSE,FALSE,FALSE,TRUE,TRUE
+1744,840,California,California,California,California,DM,DM,0.01644,FALSE,FALSE,FALSE,TRUE,TRUE
+1744,841,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1743,1745,California,California,California,California,DM,H,0.26205,FALSE,FALSE,TRUE,TRUE,FALSE
+1745,842,California,California,California,California,H,H,0.28761,FALSE,FALSE,FALSE,TRUE,TRUE
+1745,1746,California,California,California,California,H,H,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1746,843,California,California,California,California,H,H,0.15373,FALSE,FALSE,FALSE,TRUE,TRUE
+1746,844,California,California,California,California,H,H,0.13461,FALSE,FALSE,FALSE,TRUE,TRUE
+1742,1747,California,California,California,California,DM,DM,0.20068,FALSE,FALSE,FALSE,TRUE,TRUE
+1747,1748,California,California,California,California,DM,DM,0.29434,FALSE,FALSE,FALSE,TRUE,TRUE
+1748,845,California,California,California,California,DM,DM,0.07377,FALSE,FALSE,FALSE,TRUE,TRUE
+1748,846,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1747,1749,California,Usa,California,Usa,DM,DM,0.1734,TRUE,TRUE,FALSE,FALSE,TRUE
+1749,1750,Usa,Usa,Usa,Usa,DM,DM,0.27122,FALSE,FALSE,FALSE,TRUE,TRUE
+1750,847,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1750,848,Usa,California,Usa,California,DM,DM,0.2274,TRUE,TRUE,FALSE,FALSE,TRUE
+1749,1751,Usa,Usa,Usa,Usa,DM,DM,0.06492,FALSE,FALSE,FALSE,TRUE,TRUE
+1751,849,Usa,Usa,Usa,Usa,DM,DM,0.20629,FALSE,FALSE,FALSE,TRUE,TRUE
+1751,1752,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1752,850,Usa,Usa,Usa,Usa,DM,DM,0.20629,FALSE,FALSE,FALSE,TRUE,TRUE
+1752,1753,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1753,851,Usa,Usa,Usa,Usa,DM,DM,0.20629,FALSE,FALSE,FALSE,TRUE,TRUE
+1753,1754,Usa,Usa,Usa,Usa,DM,DM,0.10331,FALSE,FALSE,FALSE,TRUE,TRUE
+1754,1755,Usa,Usa,Usa,Usa,DM,DM,0.10298,FALSE,FALSE,FALSE,TRUE,TRUE
+1755,852,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1755,853,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1754,1756,Usa,Usa,Usa,Usa,DM,DM,0.06195,FALSE,FALSE,FALSE,TRUE,TRUE
+1756,854,Usa,Usa,Usa,Usa,DM,DM,0.04103,FALSE,FALSE,FALSE,TRUE,TRUE
+1756,855,Usa,Usa,Usa,Usa,DM,DM,0.04103,FALSE,FALSE,FALSE,TRUE,TRUE
+1741,1757,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1757,1758,Usa,Usa,Usa,Usa,DM,DM,0.04265,FALSE,FALSE,FALSE,TRUE,TRUE
+1758,856,Usa,Usa,Usa,Usa,DM,DM,0.00601,FALSE,FALSE,FALSE,TRUE,TRUE
+1758,1759,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1759,857,Usa,California,Usa,California,DM,DM,0.88652,TRUE,TRUE,FALSE,FALSE,TRUE
+1759,1760,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1760,858,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1760,1761,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1761,859,Usa,California,Usa,California,DM,DB,0.93989,TRUE,TRUE,TRUE,FALSE,FALSE
+1761,860,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1757,1762,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1762,1763,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1763,861,Usa,California,Usa,California,DM,DM,0.98582,TRUE,TRUE,FALSE,FALSE,TRUE
+1763,862,Usa,Usa,Usa,Usa,DM,DM,0.04866,FALSE,FALSE,FALSE,TRUE,TRUE
+1762,1764,Usa,Usa,Usa,Usa,DM,DM,0.0178,FALSE,FALSE,FALSE,TRUE,TRUE
+1764,863,Usa,California,Usa,California,DM,DM,0.95709,TRUE,TRUE,FALSE,FALSE,TRUE
+1764,1765,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1765,1766,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1766,864,Usa,California,Usa,California,DM,DM,1.02813,TRUE,TRUE,FALSE,FALSE,TRUE
+1766,1767,Usa,Usa,Usa,Usa,DM,DM,0.00199,FALSE,FALSE,FALSE,TRUE,TRUE
+1767,865,Usa,California,Usa,California,DM,DM,0.91411,TRUE,TRUE,FALSE,FALSE,TRUE
+1767,1768,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1768,866,Usa,California,Usa,California,DM,DM,0.85674,TRUE,TRUE,FALSE,FALSE,TRUE
+1768,1769,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1769,867,Usa,Usa,Usa,Usa,DM,DM,0.02887,FALSE,FALSE,FALSE,TRUE,TRUE
+1769,1770,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1770,868,Usa,California,Usa,California,DM,DM,0.95236,TRUE,TRUE,FALSE,FALSE,TRUE
+1770,1771,Usa,Usa,Usa,Usa,DM,DM,0.01997,FALSE,FALSE,FALSE,TRUE,TRUE
+1771,869,Usa,California,Usa,California,DM,DM,0.94605,TRUE,TRUE,FALSE,FALSE,TRUE
+1771,1772,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1772,870,Usa,Usa,Usa,Usa,DM,DM,1.00689,FALSE,FALSE,FALSE,TRUE,TRUE
+1772,1773,Usa,Usa,Usa,Usa,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1773,871,Usa,California,Usa,California,DM,DM,0.92838,TRUE,TRUE,FALSE,FALSE,TRUE
+1773,1774,Usa,Usa,Usa,Usa,DM,DM,0.00288,FALSE,FALSE,FALSE,TRUE,TRUE
+1774,1775,Usa,Usa,Usa,Usa,DM,DB,0.002,FALSE,FALSE,TRUE,TRUE,FALSE
+1775,872,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1775,873,Usa,Usa,Usa,Usa,DB,DB,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1774,1776,Usa,California,Usa,California,DM,DM,0.86266,TRUE,TRUE,FALSE,FALSE,TRUE
+1776,874,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1776,875,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1765,1777,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1777,1778,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1778,876,Usa,Usa,Usa,Usa,DM,DB,0.03086,FALSE,FALSE,TRUE,TRUE,FALSE
+1778,1779,Usa,Usa,Usa,Usa,DM,DM,0.03086,FALSE,FALSE,FALSE,TRUE,TRUE
+1779,877,Usa,Usa,Usa,Usa,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1779,1780,Usa,California,Usa,California,DM,DM,0.64851,TRUE,TRUE,FALSE,FALSE,TRUE
+1780,878,California,California,California,California,DM,DM,0.27772,FALSE,FALSE,FALSE,TRUE,TRUE
+1780,1781,California,California,California,California,DM,DM,0.13944,FALSE,FALSE,FALSE,TRUE,TRUE
+1781,879,California,California,California,California,DM,DM,0.07543,FALSE,FALSE,FALSE,TRUE,TRUE
+1781,1782,California,California,California,California,DM,DM,0.07379,FALSE,FALSE,FALSE,TRUE,TRUE
+1782,880,California,Usa,California,Usa,DM,DM,0.13825,TRUE,TRUE,FALSE,FALSE,TRUE
+1782,1783,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1783,881,California,Usa,California,Usa,DM,DB,0.13825,TRUE,TRUE,TRUE,FALSE,FALSE
+1783,1784,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1784,882,California,California,California,California,DM,DM,0.07815,FALSE,FALSE,FALSE,TRUE,TRUE
+1784,883,California,California,California,California,DM,DM,0.01804,FALSE,FALSE,FALSE,TRUE,TRUE
+1777,1785,Usa,California,Usa,California,DM,DM,0.81245,TRUE,TRUE,FALSE,FALSE,TRUE
+1785,1786,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1786,884,California,California,California,California,DM,DM,0.12825,FALSE,FALSE,FALSE,TRUE,TRUE
+1786,1787,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1787,885,California,California,California,California,DM,DM,0.14191,FALSE,FALSE,FALSE,TRUE,TRUE
+1787,1788,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1788,886,California,Usa,California,Usa,DM,DM,0.21842,TRUE,TRUE,FALSE,FALSE,TRUE
+1788,887,California,Usa,California,Usa,DM,DM,0.21842,TRUE,TRUE,FALSE,FALSE,TRUE
+1785,1789,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1789,1790,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1790,888,California,California,California,California,DM,DM,0.23212,FALSE,FALSE,FALSE,TRUE,TRUE
+1790,1791,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1791,889,California,California,California,California,DM,DB,0.14465,FALSE,FALSE,TRUE,TRUE,FALSE
+1791,1792,California,California,California,California,DM,DM,0.38828,FALSE,FALSE,FALSE,TRUE,TRUE
+1792,890,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1792,891,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE
+1789,1793,California,California,California,California,DM,DM,0.02752,FALSE,FALSE,FALSE,TRUE,TRUE
+1793,892,California,Usa,California,Usa,DM,DM,0.19089,TRUE,TRUE,FALSE,FALSE,TRUE
+1793,1794,California,California,California,California,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1794,893,California,California,California,California,DM,DM,0.11239,FALSE,FALSE,FALSE,TRUE,TRUE
+1794,1795,California,California,California,California,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1795,894,California,California,California,California,DM,DM,0.12678,FALSE,FALSE,FALSE,TRUE,TRUE
+1795,1796,California,California,California,California,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1796,895,California,California,California,California,DM,DM,0.10838,FALSE,FALSE,FALSE,TRUE,TRUE
+1796,1797,California,California,California,California,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1797,896,California,California,California,California,DM,DM,0.02714,FALSE,FALSE,FALSE,TRUE,TRUE
+1797,1798,California,California,California,California,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1798,897,California,California,California,California,DM,DM,0.13169,FALSE,FALSE,FALSE,TRUE,TRUE
+1798,1799,California,California,California,California,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1799,898,California,California,California,California,DM,DM,0.10237,FALSE,FALSE,FALSE,TRUE,TRUE
+1799,1800,California,California,California,California,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1800,899,California,California,California,California,DM,DM,0.10036,FALSE,FALSE,FALSE,TRUE,TRUE
+1800,1801,California,California,California,California,DM,DM,0.002,FALSE,FALSE,FALSE,TRUE,TRUE
+1801,900,California,California,California,California,DM,DM,0.13661,FALSE,FALSE,FALSE,TRUE,TRUE
+1801,901,California,California,California,California,DM,DM,4e-8,FALSE,FALSE,FALSE,TRUE,TRUE

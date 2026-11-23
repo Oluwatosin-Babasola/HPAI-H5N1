@@ -1,0 +1,11 @@
+from_host,into_host,n
+WB,DB,144
+DB,WB,26
+DM,DB,15
+WB,WM,13
+WB,DM,5
+DB,DM,2
+DM,H,2
+DB,WM,1
+DM,WB,1
+DM,WM,1

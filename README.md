@@ -1,73 +1,49 @@
-# HPAI-H5N1
-A phylogeny-informed mathematical modeling of HPAI H5N1 transmission dynamics and effectiveness of control measures. 
+# Global H5 Host and Region Transition Analysis
 
----
+Scripts for reconstructing host and geographic transitions on a global influenza
+time-calibrated phylogeny, and for plotting the results.
 
-## Project Overview
+## Scripts
 
-This repository contains the implementation of a multi host mathematical model for the transmission dynamics of highly pathogenic avian influenza H5N1. The model describes interactions among human populations, domestic poultry, and wild bird reservoirs, with explicit representation of cross species transmission pathways.
+| Script | What it does |
+| --- | --- |
+| `global_tree_transitions_interhost.R` | Parses tip labels, reconstructs ancestral host and region states, and writes per-edge annotations plus host and region transition tables. |
+| `Tree_region_host_heatmaps.R` | Draws the time tree with host-colored tips beside Region and Host heat-map strips. |
+| `host_source_sink_heatmap.py` | Builds host-to-host heat maps and a net source-sink summary from the transition tables. |
 
-The primary objective is to quantify how transmission within and between host populations contributes to zoonotic infection risk and to evaluate the effectiveness of intervention strategies under specified scenarios.
+## Inputs
 
----
+- `timetree.nwk` — time-calibrated tree. Tip labels are expected as
+  `strain|accession|host|region|date`.
+- `meta_data.csv` or `meta.csv` — optional metadata, joined on strain name or accession.
+  Values here override those parsed from tip labels.
 
-## Model Structure
+Host classes are `WB` wild bird, `DB` domestic bird, `WM` wild mammal,
+`DM` domestic mammal, and `H` human.
 
-The model is formulated as a system of deterministic ordinary differential equations. It consists of:
+## Outputs
 
-* Human population modeled using an SVEIR structure with compartments for susceptible, vaccinated, exposed, infectious, and recovered individuals
-* Domestic poultry population modeled using an SVEIR structure capturing vaccination and infection dynamics
-* Wild bird population modeled using an SIR structure representing reservoir dynamics
+The R transition script writes to `global_outputs/`:
 
-Transmission occurs through:
+- `edge_annotations.csv` — every branch with its parent and child host and region.
+- `host_transition_counts.csv` — cross-host transitions only, for source-sink reading.
+- `host_transition_counts_all_edges.csv` — all edges, including same-host continuity.
+- `region_transition_counts.csv` and matching in/out summaries.
 
-* Within population contacts
-* Cross species interactions between wild birds and domestic poultry
-* Spillover from domestic poultry to humans
+The Python script writes count and row-normalized heat maps plus
+`host_source_sink_summary.csv`.
 
-Vaccination is modeled as non sterilizing, allowing breakthrough infections with reduced susceptibility.
+## Usage
 
----
+```bash
+Rscript updated_global_tree_transitions_interhost.R
+python host_source_sink_heatmap.py --input global_outputs/host_transition_counts.csv \
+  --outdir host_figures --interhost-only
+Rscript Tree_region_host_heatmaps_colored_tips.R
+```
 
-## Reproduction Number and Analysis
-
-The basic reproduction number R0 is derived using the next generation matrix approach. It characterizes the threshold condition for disease invasion such that
-
-R0 < 1 implies eventual disease elimination
-R0 > 1 implies persistence
-
-Sensitivity analysis is conducted using Latin Hypercube Sampling combined with Partial Rank Correlation Coefficients to identify parameters that most strongly influence transmission dynamics. Monotonicity assumptions are assessed prior to PRCC estimation.
-
----
-
-## Optimal Control Framework
-
-The model incorporates time dependent control functions to evaluate intervention strategies:
-
-* u1 represents sanitation and environmental hygiene
-* u2 represents vaccination efforts
-* u3 represents treatment in humans
-* u4 represents culling of infected poultry
-
-## Numerical Simulations
-
-Simulations are performed to examine:
-
-* Effects of vaccination coverage and efficacy on transmission dynamics
-* Impact of cross species transmission parameters on outbreak size
-* Comparative effectiveness of single and combined intervention strategies
-
-
-
----
+Edit the file paths at the top of each R script before running.
 
 ## Requirements
-
-The code is written in Python and requires standard scientific computing libraries:
-
-* numpy
-* scipy
-* matplotlib
-* pandas
-
-
+R with ape, phytools, phangorn, ggtree, ggplot2, patchwork, and the
+tidyverse. Python 3 with pandas, numpy, and matplotlib.
