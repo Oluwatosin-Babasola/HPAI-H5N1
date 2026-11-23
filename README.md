@@ -1,2 +1,73 @@
 # HPAI-H5N1
-A phylogeny-informed mathematical modeling of HPAI H5N1 transmission dynamics and effectiveness of control measures
+A phylogeny-informed mathematical modeling of HPAI H5N1 transmission dynamics and effectiveness of control measures. 
+
+---
+
+## Project Overview
+
+This repository contains the implementation of a multi host mathematical model for the transmission dynamics of highly pathogenic avian influenza H5N1. The model describes interactions among human populations, domestic poultry, and wild bird reservoirs, with explicit representation of cross species transmission pathways.
+
+The primary objective is to quantify how transmission within and between host populations contributes to zoonotic infection risk and to evaluate the effectiveness of intervention strategies under specified scenarios.
+
+---
+
+## Model Structure
+
+The model is formulated as a system of deterministic ordinary differential equations. It consists of:
+
+* Human population modeled using an SVEIR structure with compartments for susceptible, vaccinated, exposed, infectious, and recovered individuals
+* Domestic poultry population modeled using an SVEIR structure capturing vaccination and infection dynamics
+* Wild bird population modeled using an SIR structure representing reservoir dynamics
+
+Transmission occurs through:
+
+* Within population contacts
+* Cross species interactions between wild birds and domestic poultry
+* Spillover from domestic poultry to humans
+
+Vaccination is modeled as non sterilizing, allowing breakthrough infections with reduced susceptibility.
+
+---
+
+## Reproduction Number and Analysis
+
+The basic reproduction number R0 is derived using the next generation matrix approach. It characterizes the threshold condition for disease invasion such that
+
+R0 < 1 implies eventual disease elimination
+R0 > 1 implies persistence
+
+Sensitivity analysis is conducted using Latin Hypercube Sampling combined with Partial Rank Correlation Coefficients to identify parameters that most strongly influence transmission dynamics. Monotonicity assumptions are assessed prior to PRCC estimation.
+
+---
+
+## Optimal Control Framework
+
+The model incorporates time dependent control functions to evaluate intervention strategies:
+
+* u1 represents sanitation and environmental hygiene
+* u2 represents vaccination efforts
+* u3 represents treatment in humans
+* u4 represents culling of infected poultry
+
+## Numerical Simulations
+
+Simulations are performed to examine:
+
+* Effects of vaccination coverage and efficacy on transmission dynamics
+* Impact of cross species transmission parameters on outbreak size
+* Comparative effectiveness of single and combined intervention strategies
+
+
+
+---
+
+## Requirements
+
+The code is written in Python and requires standard scientific computing libraries:
+
+* numpy
+* scipy
+* matplotlib
+* pandas
+
+
